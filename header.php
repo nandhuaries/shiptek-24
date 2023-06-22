@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>ShipTek 2024</title>
     <!-- Stylesheets -->
+    <link rel="stylesheet" href="styleNd.css">
     <link rel="stylesheet" href="video.css" />
     <link rel="stylesheet" href="styleNd.css" />
     <link href="css/bootstrap.css" rel="stylesheet" />
