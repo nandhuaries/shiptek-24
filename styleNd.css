@@ -1,7 +1,13 @@
-.speak{
-    background-size: cover;
-    background-repeat: no-repeat;
+.speak {
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .inp {
-    height: 50px;
-  }
+  height: 50px;
+}
+.topics-int {
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

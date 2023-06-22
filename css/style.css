@@ -3125,7 +3125,7 @@ img{
 .feature-block-two .icon-box{
 	position: absolute;
 	left: 30px;
-	top: 50px;
+	/* top: 50px; */
 	display: block;
 	margin-bottom: 30px;
 }
