@@ -238,6 +238,9 @@
  <script src="js/script.js"></script>
  <!-- Color Setting -->
  <script src="js/color-settings.js"></script>
+   <!-- recaptcha -->
+   <script src="https://www.google.com/recaptcha/api.js"></script>
+      <!-- recaptcha -->
  </body>
 
  </html>

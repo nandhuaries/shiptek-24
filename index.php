@@ -22,7 +22,7 @@
                         <li><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
                     </ul>
                     <div class="btn-box">
-                        <a href="sponsorship-enquiry-form.html" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
+                        <a href="sponsorship-enquiry-form.php" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Sponsorship enquiry</span></a>
                         <a href="delegateRegForm.html" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
