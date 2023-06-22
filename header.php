@@ -42,7 +42,7 @@
                 <div class="auto-container clearfix">
                     <div class="logo-box">
                         <div class="logo">
-                            <a href="index.html"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
+                            <a href="index.php"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
                         </div>
                     </div>
 
@@ -64,7 +64,7 @@
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown">
-                                        <a href="index.html">Home</a>
+                                        <a href="index.php">Home</a>
                                         <!-- <ul>
                                             <li><a href="index.html">Home Classic</a></li>
                                             <li><a href="index-2.html">Home Conference</a></li>
@@ -197,7 +197,7 @@
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 <nav class="menu-box">
                     <div class="nav-logo">
-                        <a href="index.html"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
+                        <a href="index.php"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
                     </div>
 
                     <ul class="navigation clearfix">

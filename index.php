@@ -27,7 +27,8 @@
                         <a href="delegateRegForm.html" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
                         <a href="nomination-registration.php" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
-                        <a href="#" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Media Registration</span></a>
+                        <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span
+                    class="btn-title">Media Registration</span></a>
                     </div>
                 </div>
             </div>
@@ -35,6 +36,55 @@
     </div>
 </section>
 <!--End Banner Section -->
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Media Registration</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="container">
+            <div class="col">
+                <!-- <h4 class="text-center">Media Registration ShipTek Dubai 2024</h4> -->
+                <div>
+                  <form action="/sds" method="post">
+                    <div class="col-12">
+                      <label for="name-of-media">Name Of Media</label><br>
+                      <input type="text" id="name-of-media" class="inp form-control" placeholder="Name Of Media">
+                    </div>
+                    <div class="col-12">
+                      <label for="location">Location</label><br>
+                      <input type="text" id="location" class="inp form-control" placeholder="Location">
+                    </div>
+                    <div class="col-12">
+                      <label for="website">Website</label><br>
+                      <input type="text" id="website" class="inp form-control" placeholder="Website">
+                    </div>
+                    <div class="col-12">
+                      <label for="contact-information">Contact Information</label><br>
+                      <input type="text" id="contact-information" class="inp form-control" placeholder="Contact Information">
+                    </div>
+                    <div class="col-md-12 col-sm-12 mt-3">
+                      <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                  </form>
+                </div>    
+            </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- end modal -->
 
 <!-- Coming Soon -->
 <section class="coming-soon-section">
