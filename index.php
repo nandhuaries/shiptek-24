@@ -2739,7 +2739,7 @@
                     <!-- end card -->
                 </div>
                 <div class="btn-box d-flex justify-content-center">
-                    <a href="blog-grid.html" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
+                    <a href="blog-full.php" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
                 </div>
             </div>
             <!-- end bootstrap -->
