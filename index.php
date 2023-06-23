@@ -24,7 +24,7 @@
                     <div class="btn-box">
                         <a href="sponsorship-enquiry-form.php" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Sponsorship enquiry</span></a>
-                        <a href="delegateRegForm.html" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
+                        <a href="delegate-registration.php" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
                         <a href="nomination-registration.php" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
                         <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span
@@ -2113,7 +2113,7 @@
                 <div class="card shadow" style="width: 18rem">
                     <img src="pics/whyToAttendIMg/image_processing20201016-15173-gcwnwd.gif" class="card-img-top" alt="..." />
                     <div class="card-body">
-                        <h5 class="card-title">Networking Opportunities</h5>
+                        <h5 class="card-title" style="color: #1d95d2; font-weight:500">Networking Opportunities</h5>
                         <p class="card-text text-justify">
                             Meet and connect with experts from the industry, gain
                             knowledge on the opportunities and challenges of the
@@ -2127,8 +2127,8 @@
                 <div class="card shadow" style="width: 18rem">
                     <img src="pics/whyToAttendIMg/caseStudy.gif" class="card-img-top" alt="..." />
                     <div class="card-body">
-                        <h5 class="card-title">Case Study Presentations</h5>
-                        <p class="card-text">
+                        <h5 class="card-title" style="color: #1d95d2; font-weight:500">Case Study Presentations</h5>
+                        <p class="card-text text-justify">
                             Increase your awareness about modern Asset management /
                             advanced inspection technologies used in Oil & gas
                             production, petrochemical, power generation, and
@@ -2142,8 +2142,8 @@
                 <div class="card shadow" style="width: 18rem">
                     <img src="pics/whyToAttendIMg/lead_generation.gif" class="card-img-top" alt="..." />
                     <div class="card-body">
-                        <h5 class="card-title">Lead Generation</h5>
-                        <p class="card-text">
+                        <h5 class="card-title" style="color: #1d95d2; font-weight:500">Lead Generation</h5>
+                        <p class="card-text text-justify">
                             Connect with industry colleagues, meet prospective clients
                             and create new sales opportunities by strengthening your
                             brand awareness at the event.
@@ -2318,7 +2318,7 @@
     <div class="auto-container">
         <div class="sec-title">
             <span class="title">ShipTek</span>
-            <h2>MEDIA PARTNERS</h2>
+            <h2>Media Partners</h2>
         </div>
 
         <div class="sponsors-outer d-flex flex-column text-center">

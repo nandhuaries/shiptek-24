@@ -5,10 +5,10 @@
         style="background-image: url(images/background/5.jpg)"
       >
         <div class="auto-container">
-          <h1>Buy Ticket</h1>
+          <h1>Nomination Registration</h1>
           <ul class="bread-crumb clearfix">
-            <li><a href="index.html">Home</a></li>
-            <li>Buy Ticket</li>
+            <li><a href="index.php">Home</a></li>
+            <li>Nomination Registration</li>
           </ul>
         </div>
       </section>

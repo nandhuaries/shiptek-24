@@ -5,7 +5,7 @@
     <div class="auto-container">
         <h1>SPONSORSHIP ENQUIRY</h1>
         <ul class="bread-crumb clearfix">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>SPONSORSHIP ENQUIRY</li>
         </ul>
     </div>
