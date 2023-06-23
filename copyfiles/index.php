@@ -160,176 +160,176 @@
 
 <!-- Features Section Two -->
 <section class="features-section-two">
-      <div class="auto-container">
+    <div class="auto-container">
         <div class="anim-icons">
-          <span class="icon twist-line-1 wow zoomIn"></span>
-          <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-          <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
+            <span class="icon twist-line-1 wow zoomIn"></span>
+            <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
+            <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
         </div>
 
         <div class="row">
-          <!-- Title Block -->
-          <div class="title-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp">
-            <div class="inner-box">
-              <div class="sec-title">
-                <span class="title">SHIPTEK</span>
-                <h2>INTERNATIONAL CONFERENCE – TOPICS 2024</h2>
-              </div>
+            <!-- Title Block -->
+            <div class="title-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <div class="sec-title">
+                        <span class="title">SHIPTEK</span>
+                        <h2>INTERNATIONAL CONFERENCE – TOPICS 2024</h2>
+                    </div>
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4><a href="about.html">AI & DIGITAL TRANSFORMATION</a></h4>
-              <!-- <div class="text">AI & DIGITAL TRANSFORMATION</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4><a href="about.html">AI & DIGITAL TRANSFORMATION</a></h4>
+                    <!-- <div class="text">AI & DIGITAL TRANSFORMATION</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">DECARBONIZATION & ENERGY TRANSITION</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">DECARBONIZATION & ENERGY TRANSITION</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4><a href="about.html">CREW HEALTH & SAFETY</a></h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4><a href="about.html">CREW HEALTH & SAFETY</a></h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4><a href="about.html">MARINE LOGISTICS & OPREATIONS</a></h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4><a href="about.html">MARINE LOGISTICS & OPREATIONS</a></h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
-                  FUTURE</a>
-              </h4>
-              <!-- <div class="text">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
+                            FUTURE</a>
+                    </h4>
+                    <!-- <div class="text">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
                     FUTURE.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">ALTERNATIVE SHIP FUELS – CURRENT STATUS & OUTLOOK</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">ALTERNATIVE SHIP FUELS – CURRENT STATUS & OUTLOOK</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">CLASSSIFICATION SOCIETY – RULES, REGULATIONS &
-                  RECOMMENDATIONS</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">CLASSSIFICATION SOCIETY – RULES, REGULATIONS &
+                            RECOMMENDATIONS</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">MARITIME REGULATIONS & GOALS - TODAY / 2030 / 2050</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">MARITIME REGULATIONS & GOALS - TODAY / 2030 / 2050</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">ROADMAP TO SUSTAINABLE SHIPPING</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">ROADMAP TO SUSTAINABLE SHIPPING</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4>
-                <a href="about.html">SEA TRANSPORTATION AND HEAVY LIFT</a>
-              </h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4>
+                        <a href="about.html">SEA TRANSPORTATION AND HEAVY LIFT</a>
+                    </h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4><a href="about.html">POWERING SHIPS OF THE FUTURE</a></h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4><a href="about.html">POWERING SHIPS OF THE FUTURE</a></h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
 
-          <!-- Feature Block -->
-          <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-            <div class="inner-box topics-int">
-              <div class="icon-box">
-                <span class="icon flaticon-employee-1"></span>
-              </div>
-              <h4><a href="about.html">BLOCK CHAIN IN SHIPPING</a></h4>
-              <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+            <!-- Feature Block -->
+            <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-employee-1"></span>
+                    </div>
+                    <h4><a href="about.html">BLOCK CHAIN IN SHIPPING</a></h4>
+                    <!-- <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd.</div> -->
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </section>
-    <!--End Features Section -->
+    </div>
+</section>
+<!--End Features Section -->
 
 <!-- Speakers Section -->
 <section class="speakers-section speak" id="speakers" style="background-image: url(pics/gif/speakerSec.gif)">
