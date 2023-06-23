@@ -87,7 +87,7 @@
                                          <li>
                                              <span class="icon flaticon-paper-plane"></span>
                                              <div class="text">
-                                                 <a href="mailto:support@example.com">eventmanager@ariesgroupglobal.com</a>
+                                                 <a href="mailto:eventmanager@ariesgroupglobal.com">eventmanager@ariesgroupglobal.com</a>
                                              </div>
                                          </li>
 
@@ -238,9 +238,9 @@
  <script src="js/script.js"></script>
  <!-- Color Setting -->
  <script src="js/color-settings.js"></script>
-   <!-- recaptcha -->
-   <script src="https://www.google.com/recaptcha/api.js"></script>
-      <!-- recaptcha -->
+ <!-- recaptcha -->
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+ <!-- recaptcha -->
  </body>
 
  </html>
