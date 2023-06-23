@@ -253,8 +253,6 @@
                                     <a href="about.html">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
                                         FUTURE</a>
                                 </h4>
-                                <!-- <div class="text">HUMAN ELEMENT - OUTLINE PRESENT CHALLENGES & VISION FOR THE
-                    FUTURE.</div> -->
                             </div>
                         </div>
 
@@ -874,22 +872,7 @@
                                         <h4 class="name">
                                             <a href="speakers-detail.html">Vivek Seth</a>
                                         </h4>
-                                        <span class="designation">Senior Vice President, Marine Services ADNOC Logistics &
-                                            Services</span>
-                                        <!-- <ul class="social-links social-icon-colored">
-                      <li>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-pinterest"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-dribbble"></i></a>
-                      </li>
-                    </ul> -->
+                                        <span class="designation">Senior Vice President, Marine Services ADNOC Logistics & Services</span>
                                     </div>
                                 </div>
                             </div>
@@ -910,20 +893,6 @@
                                         </h4>
                                         <span class="designation">Key Account Manager, Business Development Middle East at
                                             DNV Maritime</span>
-                                        <!-- <ul class="social-links social-icon-colored">
-                      <li>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-pinterest"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-dribbble"></i></a>
-                      </li>
-                    </ul> -->
                                     </div>
                                 </div>
                             </div>
@@ -943,20 +912,6 @@
                                             <a href="speakers-detail.html">Shakeel Shamsudeen</a>
                                         </h4>
                                         <span class="designation">Director Of Operations - Digital Viswa Group</span>
-                                        <!-- <ul class="social-links social-icon-colored">
-                      <li>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-pinterest"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-dribbble"></i></a>
-                      </li>
-                    </ul> -->
                                     </div>
                                 </div>
                             </div>
