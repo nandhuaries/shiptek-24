@@ -47,7 +47,7 @@
                     <li>
                       <span class="icon flaticon-worldwide"></span>
                       <div class="text">
-                        Biz Events Management P O Box : 24496<br>Tower 400, 20th Floor Sharjah, UAE
+                        Biz Events Management P O Box : 24496 <br>Tower 400, 20th Floor Sharjah, UAE
                       </div>
                     </li>
 
@@ -144,49 +144,6 @@
       <!-- recaptcha -->
       <script src="https://www.google.com/recaptcha/api.js"></script>
       <!-- recaptcha -->
-	  <script src="js/jquery.validate.js"></script>
-	  
-	<script type="text/javascript">
-  
-    var validate =  $("#contact_form").validate({
-            rules: {
-                username:"required",
-                email:"required",
-                phone:"required",
-                message:"required",
-               
-            },
-            messages: {
-                username:"Please Enter Full Name",
-                email:"Please Enter Valid Email Address",
-                phone:"Please Enter Phone",
-                message:"Please Enter Message",
-                
-            },
-            submitHandler: function() {
-				
-				if (grecaptcha.getResponse() == "") {
-            alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
-            return false;
-        }
-                // call your function
-                $('#sub').hide();
-                $('#waitmsg').show();
-                return true;
-            }
-
-
-        }
-    );
-
-</script>
-
-<style type="text/css">
-    .error{
-        color:red;
-    }
-</style>  
-	  
 </body>
 
 </html>
