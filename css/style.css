@@ -465,7 +465,9 @@ color:#ffffff;
 }
 
 .btn-style-four:hover{
-	color:#24293d;
+	/* color:#24293d; */
+	color:white;
+	cursor: pointer;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -5940,7 +5942,7 @@ img{
 }
 
 
-/***
+
 
 ====================================================================
 			Why Choose Us
@@ -5951,7 +5953,7 @@ img{
 .why-choose-us{
 	position: relative;
 	background-color: #fafafa;
-	padding: 120px 0 70px;
+	padding: 60px 0 90px;
 }
 
 .why-choose-us .image-column{
@@ -6501,7 +6503,7 @@ img{
 
 .news-section{
 	position: relative;
-	padding: 110px 0 80px;
+	padding: 60px 0 80px;
 	overflow: hidden;
 }
 
@@ -7180,7 +7182,7 @@ img{
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 120px 0 140px;
+	padding: 60px 0 90px;
 	background-attachment:fixed;
 }
 
@@ -8039,7 +8041,7 @@ img{
 
 .clients-section{
 	position: relative;
-	padding: 120px 0 90px;
+	padding: 60px 0 90px;
 }
 
 .clients-section:before{
@@ -9413,7 +9415,7 @@ img{
 
 .buy-ticket{
 	position: relative;
-	padding: 120px 0 100px;
+	padding: 60px 0 90px;
 }
 
 .buy-ticket .form-column{
@@ -10970,7 +10972,7 @@ img{
 
 .register-section{
 	position:relative;
-	padding:130px 0px 130px;
+	padding:60px 0px 90px;
 }
 
 .register-section .form-box{

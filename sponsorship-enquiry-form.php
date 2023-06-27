@@ -1,19 +1,17 @@
 <?php include('header.php'); ?>
-
 <!--Page Title-->
-<section class="page-title" style="background-image: url(images/background/5.jpg)">
+<section class="page-title" style="background: rgb(0, 0, 0, .7)url(pics/banner/newBanner-delegate.jpg);background-position: center;">
     <div class="auto-container">
-        <h1>SPONSORSHIP ENQUIRY</h1>
+        <h1>Sponsorship Registration</h1>
         <ul class="bread-crumb clearfix">
             <li><a href="index.php">Home</a></li>
-            <li>SPONSORSHIP ENQUIRY</li>
+            <li>Sponsorship Registration</li>
         </ul>
     </div>
 </section>
 <!--End Page Title-->
-
 <!-- Buy Ticket  -->
-<section class="buy-ticket">
+<section class="buy-ticket" style="background-image: url(pics/banner/sponsorship-banner.jpg); background-size: cover;">
     <div class="anim-icons full-width">
         <span class="icon icon-circle-blue wow fadeIn"></span>
         <span class="icon icon-circle-1 wow zoomIn"></span>
@@ -41,15 +39,15 @@
 
             <!-- Form Column -->
             <div class="form-column col-lg-12 col-md-12 col-sm-12">
-                <div class="inner-column">
+                <div class="inner-column shadow-lg border pt-4 pb-4">
                     <div class="container pb-5">
-                        <h1 class="text-center pb-3" style="color: #1e1f36; font-weight: 700; font-size: 40px">
+                        <!-- <h1 class="text-center pb-3" style="color: #1e1f36; font-weight: 700; font-size: 40px">
                             SPONSORSHIP ENQUIRY
-                        </h1>
-                        <p class="text-center">
+                        </h1> -->
+                        <h4 class="text-center" style="color:black;">
                             Contact us below with general inquiries, or to learn more
                             about Sponsorship Opportunities.
-                        </p>
+                        </h4>
                         <form action="">
                             <div class="row justify-content-center">
                                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
@@ -74,7 +72,7 @@
                                     <input class="border w-100 inp form-control" type="text" placeholder="Where Are You Located ?" required />
                                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
-                                    <select name="Select Sponsor Ship Category" id="" class="form-control">
+                                    <select style="height: 50px;" name="Select Sponsor Ship Category" id="" class="form-control">
                                         <option value="" disabled selected>
                                             Select Sponsor Ship Category
                                         </option>
@@ -130,7 +128,7 @@
                             <div class="row justify-content-center">
                                 <div class="btn-box">
                                     <button type="submit" class="btn btn-dark">
-                                        Register
+                                        Submit
                                     </button>
                                 </div>
                             </div>
