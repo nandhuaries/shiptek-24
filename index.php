@@ -2278,7 +2278,7 @@
     <!-- rearrange -->
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-4">
+        <div class="col-12 col-lg-4 col-md-4">
           <div class="sponsors-outer">
             <h3 style="background-color: #40cbb4;" class="w-100 text-center">Strategic Media Partner</h3>
             <div>
@@ -2292,7 +2292,7 @@
           </div>
         </div>
         <!-- second -->
-        <div class="col-4">
+        <div class="col-12 col-lg-4 col-md-4">
           <div class="sponsors-outer">
             <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
             <div>
