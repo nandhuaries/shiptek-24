@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <!--Page Title-->
-<section class="page-title" style="background: rgb(0, 0, 0, .7)url(pics/banner/newBanner-delegate.jpg);background-position: center;">
+<section class="page-title shado" style="background-image: url(pics/banner/newBanner-delegate.jpg);background-position: center;">
     <div class="auto-container">
         <h1>Sponsorship Registration</h1>
         <ul class="bread-crumb clearfix">
@@ -15,6 +15,14 @@
     <div class="anim-icons full-width">
         <span class="icon icon-circle-blue wow fadeIn"></span>
         <span class="icon icon-circle-1 wow zoomIn"></span>
+    </div>
+    <div class="container">
+        <div class="mb-4">
+            <h2 class="text-center" style="color:black;">
+                Contact us below with general inquiries, or to learn more
+                about Sponsorship Opportunities.
+            </h2>
+        </div>
     </div>
     <div class="auto-container">
         <div class="row">
@@ -44,10 +52,10 @@
                         <!-- <h1 class="text-center pb-3" style="color: #1e1f36; font-weight: 700; font-size: 40px">
                             SPONSORSHIP ENQUIRY
                         </h1> -->
-                        <h4 class="text-center" style="color:black;">
+                        <!-- <h4 class="text-center" style="color:black;">
                             Contact us below with general inquiries, or to learn more
                             about Sponsorship Opportunities.
-                        </h4>
+                        </h4> -->
                         <form action="">
                             <div class="row justify-content-center">
                                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">

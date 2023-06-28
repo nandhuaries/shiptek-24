@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 <!--Page Title-->
-<section class="page-title" style="background-image:url(pics/banner/newBanner-delegate.jpg);background-position: center;">
+<section class="page-title shado" style="background-image:url(pics/banner/newBanner-delegate.jpg);background-position: center;">
   <div class="auto-container">
     <h1>Delegate Registration</h1>
     <ul class="bread-crumb clearfix">

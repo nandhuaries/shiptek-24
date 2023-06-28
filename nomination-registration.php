@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 <!--Page Title-->
-<section class="page-title" style="background-image: url(pics/banner/newBanner-delegate.jpg)">
+<section class="page-title shado" style="background-image: url(pics/banner/newBanner-delegate.jpg)">
   <div class="auto-container">
     <h1>Nomination Registration</h1>
     <ul class="bread-crumb clearfix">

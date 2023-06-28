@@ -7,7 +7,7 @@
   <div class="banner-carousel owl-carousel owl-theme">
     <!-- Slide Item -->
     <div class="slide-item">
-      <div class="auto-container">
+      <div class="auto-containerr movTop">
         <div class="content-box">
           <span class="title">5th - 6th March 2024 | 09:00 AM - 05:00 PM
           </span>
@@ -101,7 +101,7 @@
       <div class="image-column col-lg-6 col-md-12 col-sm-12">
         <div class="image-box">
           <figure class="image wow fadeIn">
-            <img src="images/resource/about-img-1.jpg" alt="" />
+            <img src="pics/index-images/New Project.jpg" alt="" />
           </figure>
         </div>
       </div>
@@ -2184,7 +2184,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dcmmiemirates.ae/"target="_blank"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
+            <a href="https://www.dcmmiemirates.ae/" target="_blank"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2195,14 +2195,14 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.fonasba.com/"target="_blank"><img src="pics/fonsaba1.png" alt="" /></a>
-          </figure> target="_blank"
+            <a href="https://www.fonasba.com/" target="_blank"><img src="pics/fonsaba1.png" alt="" /></a>
+          </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dubaisaa.ae/"target="_blank"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
+            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
           </figure>
         </div>
 
@@ -2700,10 +2700,10 @@
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
-    <div class="modal-content">
+    <div class="modal-content" style="background-color: #fffefa;">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Media Registration</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <h3 class="modal-title" id="exampleModalLabel" style="color: #1e1f36; font-weight:700">Media Registration</h3>
+        <button style="margin-top: 0px;" type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2745,11 +2745,13 @@
                 <div class="col-md-12 col-sm-12 mt-3">
                   <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
                 </div>
-                <button type="submit" name="submit" id="submit" class="btn btn-primary">Register</button>
-                <button type="button" class="btn btn-dark" style="display: none" id="waitmsg" value="Please Wait..." disabled="disabled">
-                  Please Wait...
-                </button>
-                <div class="modal-footer">
+                <div class="row justify-content-center mt-3">
+                  <button type="submit" name="submit" id="submit" class="btn btn-primary">Submit</button>
+                  <button type="button" class="btn btn-dark" style="display: none" id="waitmsg" value="Please Wait..." disabled="disabled">
+                    Please Wait...
+                  </button>
+                </div>
+                <div class="modal-footer mt-4">
                   <!--<button type="submit" id="submit" class="btn btn-primary">Register</button>
 					  <button type="button" class="btn btn-dark" style="display: none"  id="waitmsg" value="Please Wait..." disabled="disabled">
                                         Please Wait...

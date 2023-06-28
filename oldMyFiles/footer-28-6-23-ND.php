@@ -29,11 +29,11 @@
                 <h2 class="widget-title">Useful Links</h2>
                 <ul class="user-links">
                   <li><a href="index.php">Home</a></li>
-                  <li><a href="index#about">About Us</a></li>
-                  <li><a href="index#speakers">Speakers</a></li>
-                  <li><a href="index#sponsors">Sponsors</a></li>
-                  <li><a href="https://www.shiptekmaritimeevents.com/gallery">Gallery</a></li>
-                  <li><a href="index#agenda">Agenda</a></li>
+                  <li><a href="#about">About Us</a></li>
+                  <li><a href="#speakers">Speakers</a></li>
+                  <li><a href="#sponsors">Sponsors</a></li>
+                  <li><a href="#">Gallery</a></li>
+                  <li><a href="#agenda">Agenda</a></li>
                 </ul>
               </div>
             </div>
