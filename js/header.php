@@ -97,28 +97,27 @@ $pagename=basename($_SERVER['PHP_SELF']);
 
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current ">
+                                    <li class="current dropdown">
                                         <a href="index">Home</a>
                                         
                                     </li>
-                                    <!-- removed li class name {dropdown}-->
-                                    <li class="">
+                                    <li class="dropdown">
                                         <a href="index#about">About Us</a>
                                         
                                     </li>
-                                    <li class="">
+                                    <li class="dropdown">
                                         <a href="index#speakers">Speakers</a>
                                         
                                     </li>
-                                    <li class="">
+                                    <li class="dropdown">
                                         <a href="index#sponsors">Sponsors</a>
                                         
                                     </li>
-                                    <li class="">
+                                    <li class="dropdown">
                                         <a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank" >Gallery</a>
                                         
                                     </li>
-                                    <li class="">
+                                    <li class="dropdown">
                                         <a href="index#agenda">Agenda</a>
                                         
                                     </li>
