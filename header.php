@@ -32,28 +32,29 @@ $pagename=basename($_SERVER['PHP_SELF']);
 <meta property="og:image:height" content="58"/>
 
  <?php  if($pagename=="index.php") { ?> 
-    <title>ShipTek 2024</title>
-    <meta property="og:title" content="ShipTek 2024" />
+    <title>ShipTek 2024 - Dubai</title>
+    <meta property="og:title" content="ShipTek 2024 - Dubai" />
   <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-2024/">
 
 
 <?php } if($pagename=="blog-full.php") { ?> 
-    <title>Blog | ShipTek 2024</title>
-    <meta property="og:title" content="Blog | ShipTek 2024" />
+    <title>Blog | ShipTek 2024 - Dubai</title>
+    <meta property="og:title" content="Blog | ShipTek 2024 - Dubai" />
     <meta property="og:url" 
     content="http://shiptekmaritimeevents.com/shiptek-2024/blog-full">
+
 <?php } if($pagename=="delegate-registration.php") { ?> 
-    <title>Delegate Registration | ShipTek 2024</title>
-    <meta property="og:title" content="Delegate Registration | ShipTek 2024" />
+    <title>Delegate Registration | ShipTek 2024 - Dubai</title>
+    <meta property="og:title" content="Delegate Registration | ShipTek 2024 - Dubai" />
     <meta property="og:url" 
     content="http://shiptekmaritimeevents.com/shiptek-2024/delegate-registration">
 <?php } if($pagename=="nomination-registration.php") { ?> 
-    <title>Nomination | ShipTek 2024</title>
-    <meta property="og:title" content="Nomination | ShipTek 2024" />
+    <title>Nomination Registration | ShipTek 2024 - Dubai</title>
+    <meta property="og:title" content="Nomination Registration | ShipTek 2024 - Dubai" />
     <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/nomination-registration">
   <?php } if($pagename=="sponsorship-enquiry-form.php") { ?> 
-    <title>Sponsorship Enquiry | ShipTek 2024</title>
-    <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024" />
+    <title>Sponsorship Enquiry | ShipTek 2024 - Dubai</title>
+    <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024 - Dubai" />
     <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/sponsorship-enquiry-form">
 
 
@@ -177,7 +178,7 @@ $pagename=basename($_SERVER['PHP_SELF']);
 
                             <!-- Button Box -->
                             <div class="btn-box">
-                                <a href="index#contact" class="theme-btn btn-style-one"><span class="btn-title">Contact</span></a>
+                                <a href="index#contact" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a>
                             </div>
                         </div>
                     </div>

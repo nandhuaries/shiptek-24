@@ -2,7 +2,7 @@
 <!-- Banner Section -->
 <section class="banner-section">
   <video autoplay muted loop plays-inline class="backgroundClip">
-    <source src="video/shiptek23-india.mp4" type="video/mp4" />
+    <source src="video/video.mp4" type="video/mp4" />
   </video>
   <div class="banner-carousel owl-carousel owl-theme">
     <!-- Slide Item -->
@@ -19,11 +19,11 @@
           <ul class="info-list">
             <!-- <li><span class="icon fa fa-chair"></span> 5000 Seats</li>
                   <li><span class="icon fa fa-user-alt"></span> 12 SPEAKERS</li> -->
-            <li><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
+            <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
           </ul>
           <div class="btn-box">
             <a href="sponsorship-enquiry-form" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
-                Sponsorship enquiry</span></a>
+                Sponsorship Enquiry</span></a>
             <a href="delegate-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                 Delegate Registration</span></a>
             <a href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
@@ -101,7 +101,7 @@
       <div class="image-column col-lg-6 col-md-12 col-sm-12">
         <div class="image-box">
           <figure class="image wow fadeIn">
-            <img src="pics/index-images/New Project.jpg" alt="" />
+            <img src="pics/index-images/new-Project.jpg" alt="" />
           </figure>
         </div>
       </div>
@@ -2474,7 +2474,7 @@
               <div class="icon-box">
                 <span class="icon flaticon-rocket-ship"></span>
               </div>
-              <h2>HAVE QUESTIONS</h2>
+              <h2>HAVE QUESTIONS ?</h2>
               <div class="text">
                 FILL THE FORM AND ONE OF OUR TEAM MEMBER WILL REACH OUT TO
                 YOU
@@ -2516,7 +2516,7 @@
 
               <div class="form-group">
                 <span class="icon fa fa-edit"></span>
-                <textarea name="message" placeholder="Additional Message"></textarea>
+                <textarea name="message" placeholder="Additional message"></textarea>
               </div>
 
               <div class="form-group">
@@ -2635,16 +2635,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/1-new.PNG" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
-                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  Industry veterans and organisations honoured at the
-                  prestigious SHIPTEK INTERNATIONAL AWARDS 2022
+                <h5 class="card-title" style="color: red;">17th March, 2023</h5>
+                <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://www.marasinews.com/top-news/industry-veterans-and-organisations-honoured-prestigious-shiptek-international-awards-2022" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2653,15 +2652,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/2-new.PNG" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
-                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022
+                <h5 class="card-title" style="color: red;">22th March, 2023</h5>
+                <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://www.hellenicshippingnews.com/industry-veterans-organizations-honoured-with-the-prestigious-shiptek-international-awards-2022/" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2670,15 +2669,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/3.1-new.PNG" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">08th March, 2022</h5>
-                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  Ministry of Energy and Infrastructure wins award at ShipTek 2022
+                <h5 class="card-title" style="color: red;">24th March, 2023</h5>
+                <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://www.wam.ae/en/details/1395303027757" class="card-link btn-sm btn-primary">Read
+                <a href="https://uaenews247.com/2023/03/24/wingd-bags-digital-solutions-provider-of-the-year-title-at-shiptek-international-awards-2023/" target="_blank" class="card-link btn-sm btn-primary">Read
                   More</a mb-4 d-flex justify-content-center>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
@@ -2687,7 +2686,7 @@
           <!-- end card -->
         </div>
         <div class="btn-box d-flex justify-content-center">
-          <a href="blog-full.php" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
+          <a href="blog-full" class="theme-btn btn-style-one" target="_blank"><span class="btn-title">View More</span></a>
         </div>
       </div>
       <!-- end bootstrap -->

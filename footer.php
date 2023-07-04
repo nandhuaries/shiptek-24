@@ -15,10 +15,10 @@
               <div>
                 <ul class="social-icon-one social-icon-colored">
                   <li>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/ShiptekMaritimeEvents/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                   </li>
                   <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/company/shiptek/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                   </li>
                 </ul>
               </div>
@@ -28,12 +28,12 @@
               <div class="footer-widget useful-links">
                 <h2 class="widget-title">Useful Links</h2>
                 <ul class="user-links">
-                  <li><a href="index.php">Home</a></li>
-                  <li><a href="index#about">About Us</a></li>
-                  <li><a href="index#speakers">Speakers</a></li>
-                  <li><a href="index#sponsors">Sponsors</a></li>
-                  <li><a href="https://www.shiptekmaritimeevents.com/gallery">Gallery</a></li>
-                  <li><a href="index#agenda">Agenda</a></li>
+                  <li><a href="index" target="_blank">Home</a></li>
+                  <li><a href="index#about" target="_blank">About Us</a></li>
+                  <li><a href="index#speakers" target="_blank">Speakers</a></li>
+                  <li><a href="index#sponsors" target="_blank">Sponsors</a></li>
+                  <li><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a></li>
+                  <li><a href="index#agenda" target="_blank">Agenda</a></li>
                 </ul>
               </div>
             </div>
@@ -85,7 +85,7 @@
           <div class="inner-container clearfix">
             <div class="copyright-text">
               <p>
-                © Copyright 2024 All Rights Reserved Developed By
+                © Copyright <strong>BiztvEvents</strong> <?php echo date("Y"); ?>. All Rights Reserved Developed By
                 <span style="color: red">&hearts;</span>
 
                 <a href="https://www.ariesesolutions.com/">Aries e-Solutions</a>
