@@ -17,6 +17,94 @@
             <!-- card -->
             <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight">
                 <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="pics/blog/1-new.PNG" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: red;">17th March, 2023</h5>
+                        <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                            Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                        <!-- <a href="#" class="card-link">Another link</a> -->
+                    </div>
+                </div>
+            </div>
+            <!-- end card -->
+            <!-- card -->
+            <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
+                <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="pics/blog/2-new.PNG" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: red;">22th March, 2023</h5>
+                        <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                            UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                        <!-- <a href="#" class="card-link">Another link</a> -->
+                    </div>
+                </div>
+            </div>
+            <!-- end card -->
+            <!-- card -->
+            <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
+                <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="pics/blog/3.1-new.PNG" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: red;">24th March, 2023</h5>
+                        <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                            WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <a href="https://uaenews247.com/2023/03/24/wingd-bags-digital-solutions-provider-of-the-year-title-at-shiptek-international-awards-2023/" target="_blank" class="card-link btn-sm btn-primary">Read
+                            More</a mb-4 d-flex justify-content-center>
+                        <!-- <a href="#" class="card-link">Another link</a> -->
+                    </div>
+                </div>
+            </div>
+            <!-- end card -->
+            <!-- card -->
+            <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
+                <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="pics/blog/4-new.PNG" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: red;">22th March, 2023</h5>
+                        <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                            Mawani wins Excellence in corporate Branding at ShipTek Awards 2023
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <a href="https://indiashippingnews.com/mawani-wins-excellence-in-corporate-branding-at-shiptek-awards-2023/" target="_blank" class="card-link btn-sm btn-primary">Read
+                            More</a mb-4 d-flex justify-content-center>
+                        <!-- <a href="#" class="card-link">Another link</a> -->
+                    </div>
+                </div>
+            </div>
+            <!-- end card -->
+            <!-- card -->
+            <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
+                <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="pics/blog/5-new.PNG" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: red;">21th March, 2023</h5>
+                        <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                            GAC wins ShipTek Best Shipping Agency Award
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <a href="https://www.gac.com/corporate-news/gac-wins-shiptek-best-shipping-agency-award-2" target="_blank" class="card-link btn-sm btn-primary">Read
+                            More</a mb-4 d-flex justify-content-center>
+                        <!-- <a href="#" class="card-link">Another link</a> -->
+                    </div>
+                </div>
+            </div>
+            <!-- end card -->
+            <!-- card -->
+            <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight">
+                <div class="card" style="width: 18rem">
                     <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
                     <div class="card-body">
                         <h5 class="card-title" style="color: red;">09th March, 2022</h5>
