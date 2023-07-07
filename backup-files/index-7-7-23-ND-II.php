@@ -1451,7 +1451,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1477,7 +1477,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">
@@ -1580,7 +1580,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1606,7 +1606,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">

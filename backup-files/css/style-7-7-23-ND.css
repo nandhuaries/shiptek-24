@@ -516,8 +516,7 @@ color:#ffffff;
 
 .list-style-one li{
 	position: relative;
-	/* font-size: 16px; */
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 26px;
 	color: #444444;
 	font-weight: 400;
@@ -900,8 +899,7 @@ img{
 
 .sec-title .text{
 	position: relative;
-	/* font-size: 16px; */
-	font-size: 20px;
+	font-size: 16px;
 	line-height: 28px;
 	color: #888888;
 	margin-top: 30px;
@@ -2506,8 +2504,7 @@ img{
 }
 
 .about-section .content-column .sec-title h2{
-	/* font-size: 40px; */
-	font-size: 35px;
+	font-size: 40px;
 }
 
 .about-section .content-column .list-style-one{

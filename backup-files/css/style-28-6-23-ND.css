@@ -465,9 +465,7 @@ color:#ffffff;
 }
 
 .btn-style-four:hover{
-	/* color:#24293d; */
-	color:white;
-	cursor: pointer;
+	color:#24293d;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -516,8 +514,7 @@ color:#ffffff;
 
 .list-style-one li{
 	position: relative;
-	/* font-size: 16px; */
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 26px;
 	color: #444444;
 	font-weight: 400;
@@ -900,8 +897,7 @@ img{
 
 .sec-title .text{
 	position: relative;
-	/* font-size: 16px; */
-	font-size: 20px;
+	font-size: 16px;
 	line-height: 28px;
 	color: #888888;
 	margin-top: 30px;
@@ -2506,8 +2502,7 @@ img{
 }
 
 .about-section .content-column .sec-title h2{
-	/* font-size: 40px; */
-	font-size: 35px;
+	font-size: 40px;
 }
 
 .about-section .content-column .list-style-one{
@@ -3518,7 +3513,7 @@ img{
 
 .speakers-section{
 	position: relative;
-	padding: 60px 0 90px;
+	padding: 120px 0 90px;
 }
 
 .speakers-section:before{
@@ -5945,7 +5940,7 @@ img{
 }
 
 
-
+/***
 
 ====================================================================
 			Why Choose Us

@@ -28,12 +28,12 @@
               <div class="footer-widget useful-links">
                 <h2 class="widget-title">Useful Links</h2>
                 <ul class="user-links">
-                  <li><a href="index" target="_blank" style="width: 0px;">Home</a></li>
-                  <li><a href="index#about" target="_blank" style="width: 95px;">About Us</a></li>
-                  <li><a href="index#speakers" target="_blank" style="width: 0px;">Speakers</a></li>
-                  <li><a href="index#sponsors" target="_blank" style="width: 0px;">Sponsors</a></li>
-                  <li><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank" style="width: 0px;">Gallery</a></li>
-                  <li><a href="index#agenda" target="_blank" style="width: 0px;">Agenda</a></li>
+                  <li><a href="index" target="_blank">Home</a></li>
+                  <li><a href="index#about" target="_blank">About Us</a></li>
+                  <li><a href="index#speakers" target="_blank">Speakers</a></li>
+                  <li><a href="index#sponsors" target="_blank">Sponsors</a></li>
+                  <li><a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a></li>
+                  <li><a href="index#agenda" target="_blank">Agenda</a></li>
                 </ul>
               </div>
             </div>
