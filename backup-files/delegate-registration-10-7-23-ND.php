@@ -5,7 +5,7 @@
   <div class="auto-container">
     <h1>Delegate Registration</h1>
     <ul class="bread-crumb clearfix">
-      <li><a href="index">Home</a></li>
+      <li><a href="index.php">Home</a></li>
       <li>Delegate Registration</li>
     </ul>
   </div>
@@ -64,39 +64,31 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                   <input class="border w-100 inp form-control" type="text" name="official_email" id="official_email" placeholder="Official Mail" required />
                 </div>
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                   <input class="border w-100 inp form-control" type="text" name="email" id="email" placeholder="Personal E-mail" required />
-                </div> -->
+                </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                   <input class="border w-100 inp form-control" type="text" name="mobilenumber" id="mobilenumber" placeholder="Mobile Number" required />
                 </div>
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12 p-3">
+                <div class="col-lg-4 col-md-6 col-sm-12 p-3">
                   <input class="border w-100 inp form-control" type="text" name="department" id="department" placeholder="Department" required />
-                </div> -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                  <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
                 </div>
-                <div class="btn-box col-lg-4 col-md-6 col-sm-12 row align-items-center mt-3 mt-lg-0 mt-md-0">
-                  <button type="submit" class="btn btn-dark" name="submit" id="submit">Submit</button>
-                  <button type="button" class="btn btn-dark" name="waitmsg" id="waitmsg" style="display: none" disabled="disabled">Please Wait...</button>
-                </div>
-                <!-- end btn -->
               </div>
 
               <!-- <div class="btn-box">
                         <button class="theme-btn btn-style-one ">Get Tickets</button>
                       </div> -->
-              <!-- <div class="row align-items-center">
+              <div class="row align-items-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                   <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
                 </div>
-                btn
+                <!-- btn -->
                 <div class="btn-box ml-3">
                   <button type="submit" class="btn btn-dark" name="submit" id="submit">Submit</button>
                   <button type="button" class="btn btn-dark" name="waitmsg" id="waitmsg" style="display: none" disabled="disabled">Please Wait...</button>
                 </div>
-                end btn
-              </div> -->
+                <!-- end btn -->
+              </div>
               <!-- <div class="row justify-content-center">
                 <div class="btn-box">
                   <button type="submit" class="btn btn-dark" name="submit" id="submit">Submit</button>

@@ -4,12 +4,9 @@
   <div class="auto-container">
     <h1>Nomination Registration</h1>
     <ul class="bread-crumb clearfix">
-      <li><a href="index">Home</a></li>
+      <li><a href="index.php">Home</a></li>
       <li>Nomination Registration</li>
     </ul>
-  </div>
-  <div class="auto-container mt-5">
-    <img style="height: 100px; position: relative; " class="img" src="pics/award/award.png" alt="">
   </div>
 </section>
 <!--End Page Title-->
@@ -61,7 +58,7 @@
                     </div>
                     <div class="mb-3">
                       <label for="contact-person-no">Contact Person No</label>
-                      <input type="text" id="nominee_contact" name="nominee_contact1" placeholder="Contact Person No" class="border w-100 inp form-control" />
+                      <input type="text" id="nominee_contact" name="nominee_contact" placeholder="Contact Person No" class="border w-100 inp form-control" />
                     </div>
                     <div class="mb-3">
                       <label for="email">Email ID</label>

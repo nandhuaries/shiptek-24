@@ -2427,7 +2427,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
+            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/resize/cargoConnections.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2451,7 +2451,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.jpg" alt="" /></a>
+            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/resize/bunker.png" alt="" /></a>
           </figure>
         </div>
       </div>
