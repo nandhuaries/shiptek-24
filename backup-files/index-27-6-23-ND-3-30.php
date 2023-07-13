@@ -2,12 +2,12 @@
 <!-- Banner Section -->
 <section class="banner-section">
   <video autoplay muted loop plays-inline class="backgroundClip">
-    <source src="video/video.mp4" type="video/mp4" />
+    <source src="video/shiptek23-india.mp4" type="video/mp4" />
   </video>
   <div class="banner-carousel owl-carousel owl-theme">
     <!-- Slide Item -->
     <div class="slide-item">
-      <div class="auto-containerr movTop">
+      <div class="auto-container">
         <div class="content-box">
           <span class="title">5th - 6th March 2024 | 09:00 AM - 05:00 PM
           </span>
@@ -19,14 +19,14 @@
           <ul class="info-list">
             <!-- <li><span class="icon fa fa-chair"></span> 5000 Seats</li>
                   <li><span class="icon fa fa-user-alt"></span> 12 SPEAKERS</li> -->
-            <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
+            <li><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
           </ul>
           <div class="btn-box">
-            <a href="sponsorship-enquiry-form" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
-                Sponsorship Enquiry</span></a>
-            <a href="delegate-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
+            <a href="sponsorship-enquiry-form.php" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
+                Sponsorship enquiry</span></a>
+            <a href="delegate-registration.php" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                 Delegate Registration</span></a>
-            <a href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
+            <a href="nomination-registration.php" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
             <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
           </div>
         </div>
@@ -92,7 +92,7 @@
             <li>ShipTek International Awards 2024</li>
           </ul>
           <div class="btn-box">
-            <a href="delegate-registration" target="_blank" class="theme-btn btn-style-three"><span class="btn-title">Register Now</span></a>
+            <a href="delegate-registration.php" target="_blank" class="theme-btn btn-style-three"><span class="btn-title">Register Now</span></a>
           </div>
         </div>
       </div>
@@ -101,7 +101,7 @@
       <div class="image-column col-lg-6 col-md-12 col-sm-12">
         <div class="image-box">
           <figure class="image wow fadeIn">
-            <img src="pics/index-images/new-Project.jpg" alt="" />
+            <img src="images/resource/about-img-1.jpg" alt="" />
           </figure>
         </div>
       </div>
@@ -297,13 +297,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/hessa-almalek.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/hessa-almalek.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">H.E Eng Hessa Ahmed Hamdan Almalek</a>
+                <a href="#">H.E Eng Hessa Ahmed Hamdan Almalek</a>
               </h4>
               <span class="designation">Advisor to the Minister for Maritime Transport Affairs,
                 The UAE Ministry of Energy & Infrastructure</span>
@@ -331,13 +331,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/Ibrahim.jpg" alt="" /></a>
+              <a href="#"><img src="pics/speakers/Ibrahim.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Ibrahim Behairy</a>
+                <a href="speakers-detail.html">Ibrahim Behairy</a>
               </h4>
               <span class="designation">Managing Director Middle East & Africa, Winterthur Gas &
                 Diesel DMCC.</span>
@@ -365,13 +365,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/varghese.jpg" alt="" /></a>
+              <a href="#"><img src="pics/speakers/varghese.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Capt.Thomas Varghese</a>
+                <a href="speakers-detail.html">Capt.Thomas Varghese</a>
               </h4>
               <span class="designation">Managing Director Synergy Mideast Ship Management</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -398,13 +398,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/martin.jpg" alt="" /></a>
+              <a href="#"><img src="pics/speakers/martin.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Martin Helweg</a>
+                <a href="speakers-detail.html">Martin Helweg</a>
               </h4>
               <span class="designation">Chief Executive Officer P&O Maritime Logistics</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -431,13 +431,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/abhay-nimbalkar.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/abhay-nimbalkar.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Capt. Abhay Nimbalkar</a>
+                <a href="speakers-detail.html">Capt. Abhay Nimbalkar</a>
               </h4>
               <span class="designation">CEO Greenfield Marine Technologies</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -464,13 +464,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/ramtin.jpg" alt="" /></a>
+              <a href="#"><img src="pics/speakers/ramtin.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Ramtin Rasoulinezhad</a>
+                <a href="#">Ramtin Rasoulinezhad</a>
               </h4>
               <span class="designation">Chief Technology Officer Shift Clean Energy</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -497,13 +497,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/gireesh-menon.jpg" alt="" /></a>
+              <a href="#"><img src="pics/speakers/gireesh-menon.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Gireesh Menon </a>
+                <a href="#">Gireesh Menon </a>
               </h4>
               <span class="designation">Managing Director Aries Marine & Engg.</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -530,13 +530,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/jaideep-vohra.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/jaideep-vohra.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Jaideep Vohra</a>
+                <a href="speakers-detail.html">Jaideep Vohra</a>
               </h4>
               <span class="designation">Director Fleet Performance & Drydocking BAHRI</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -563,13 +563,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/ali-abouda.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/ali-abouda.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Ali Abouda</a>
+                <a href="speakers-detail.html">Ali Abouda</a>
               </h4>
               <span class="designation">Chief Financial Officer Gulf Navigation Holding
                 PJSC</span>
@@ -597,13 +597,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/jamil-al-ali.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/jamil-al-ali.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Jamil Al Ali</a>
+                <a href="speakers-detail.html">Jamil Al Ali</a>
               </h4>
               <span class="designation">Head of Commercial & BD Middle East Marine & Offshore,
                 Bureau Veritas.
@@ -632,13 +632,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/evengenii.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/evengenii.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Evgenii Egorov</a>
+                <a href="speakers-detail.html">Evgenii Egorov</a>
               </h4>
               <span class="designation">Business Development Manager CADMATIC</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -665,13 +665,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/willem-moelker.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/willem-moelker.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Willem Moelker</a>
+                <a href="speakers-detail.html">Willem Moelker</a>
               </h4>
               <span class="designation">Sales & Marketing Director Albwardy Damen</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -698,13 +698,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/vikas.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/vikas.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Capt. Vikas Pandey</a>
+                <a href="speakers-detail.html">Capt. Vikas Pandey</a>
               </h4>
               <span class="designation">Co-Founder, COO ShipFinex</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -731,13 +731,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/stam.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/stam.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Stam Achillas</a>
+                <a href="speakers-detail.html">Stam Achillas</a>
               </h4>
               <span class="designation">Head of Business Development Wartsila Services
                 Switzerland</span>
@@ -765,13 +765,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/simon.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/simon.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Simon Grainge</a>
+                <a href="speakers-detail.html">Simon Grainge</a>
               </h4>
               <span class="designation">Chief Executive, International Seafarers’ Welfare and
                 Assistance Network (ISWAN)</span>
@@ -799,13 +799,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/vivek-seth1.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/vivek-seth1.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Vivek Seth</a>
+                <a href="speakers-detail.html">Vivek Seth</a>
               </h4>
               <span class="designation">Senior Vice President, Marine Services ADNOC Logistics &
                 Services</span>
@@ -833,13 +833,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/sherif-azzam.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/sherif-azzam.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Sherif Azzam</a>
+                <a href="speakers-detail.html">Sherif Azzam</a>
               </h4>
               <span class="designation">Key Account Manager, Business Development Middle East at
                 DNV Maritime</span>
@@ -867,13 +867,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/shakeel.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/shakeel.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Shakeel Shamsudeen</a>
+                <a href="speakers-detail.html">Shakeel Shamsudeen</a>
               </h4>
               <span class="designation">Director Of Operations - Digital Viswa Group</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -900,13 +900,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/varsha.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/varsha.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Varsha V B</a>
+                <a href="speakers-detail.html">Varsha V B</a>
               </h4>
               <span class="designation">Naval Architecture & Ship Building Engg. Sree Narayana
                 Gurukulam</span>
@@ -934,13 +934,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/gokul.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/gokul.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Gokul A</a>
+                <a href="speakers-detail.html">Gokul A</a>
               </h4>
               <span class="designation">Btech Naval Architect Sree Narayana Gurukulam</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -967,13 +967,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/dheeraj-sharma.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/dheeraj-sharma.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Capt. Dheeraj Sharma</a>
+                <a href="speakers-detail.html">Capt. Dheeraj Sharma</a>
               </h4>
               <span class="designation">Director Business Development ABS Dubai (ME &
                 Africa)</span>
@@ -1001,13 +1001,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/kaushik-neogy.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/kaushik-neogy.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Kaushik Neogy</a>
+                <a href="speakers-detail.html">Kaushik Neogy</a>
               </h4>
               <span class="designation">Sr. Commercial Manager Al Seer Marine</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1034,13 +1034,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/alexander-mordvintsev.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/alexander-mordvintsev.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Alexander Mordvintsev</a>
+                <a href="speakers-detail.html">Alexander Mordvintsev</a>
               </h4>
               <span class="designation">Business Development Manager TRICON DP</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1067,13 +1067,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/ramee-rashid.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/ramee-rashid.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Ramee Rashid</a>
+                <a href="speakers-detail.html">Ramee Rashid</a>
               </h4>
               <span class="designation">Owner & Director Seamaster Maritime</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1103,13 +1103,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/aftab-hasan.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/aftab-hasan.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Aftab Hasan</a>
+                <a href="speakers-detail.html">Aftab Hasan</a>
               </h4>
               <span class="designation">Chairman, Risk Exchange (DIFC) Limited CEO, Arya
                 Insurance Brokerage Co. (Bayzat)</span>
@@ -1137,13 +1137,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/tony-dagher.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/tony-dagher.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Tony Dagher</a>
+                <a href="speakers-detail.html">Tony Dagher</a>
               </h4>
               <span class="designation">Managing Director TMC Shipping DMCC</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1170,13 +1170,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/russel.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/russel.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Russell Ford</a>
+                <a href="speakers-detail.html">Russell Ford</a>
               </h4>
               <span class="designation">Chief Surveyor ABS</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1203,13 +1203,13 @@
         <div class="inner-box">
           <div class="image-box">
             <figure class="image">
-              <a href="Javascript: void(0)"><img src="pics/speakers/harsh.jpg" alt="" /></a>
+              <a href="speakers-detail.html"><img src="pics/speakers/harsh.jpg" alt="" /></a>
             </figure>
           </div>
           <div class="info-box">
             <div class="inner">
               <h4 class="name">
-                <a href="Javascript: void(0)">Harsh Nagamoti</a>
+                <a href="speakers-detail.html">Harsh Nagamoti</a>
               </h4>
               <span class="designation">Lead Engineer- EIT Aries Marine & Engg Services LLC</span>
               <!-- <ul class="social-links social-icon-colored">
@@ -1451,7 +1451,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1477,7 +1477,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">
@@ -1580,7 +1580,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1606,7 +1606,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">
@@ -2163,28 +2163,28 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/clean-shipping-logo.png" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="http://www.arabwima.org/en/home" target="_blank"><img src="pics/supportingAssociations/awima.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/awima.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://youngship.com/departments/uae/" target="_blank"><img src="pics/supportingAssociations/young-ship.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/young-ship.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dcmmiemirates.ae/" target="_blank"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2195,28 +2195,28 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.fonasba.com/" target="_blank"><img src="pics/fonsaba1.png" alt="" /></a>
+            <a href="#"><img src="pics/fonsaba1.png" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/ics1.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/ics1.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.globalialogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/gobalia.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/gobalia.jpg" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2228,34 +2228,34 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.thecooperativelogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/cooperative.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/cooperative.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.conquerornetwork.com/" target="_blank"><img src="pics/supportingAssociations/conqueror.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/conqueror.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/internationalFreight.png" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/specialist.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
+            <a href="#"><img src="pics/supportingAssociations/worldFrieghtNet.png" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2275,58 +2275,85 @@
       <span class="title">ShipTek</span>
       <h2>Media Partners</h2>
     </div>
-    <!-- rearrange -->
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #40cbb4;" class="w-100 text-center">Strategic Media Partner</h3>
-            <div>
-              <!-- Client Block -->
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="https://www.marasinews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- second -->
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
-            <div>
-              <!-- Client Block -->
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="https://assafinaonline.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end second -->
-      </div>
-    </div>
-    <!-- end rearrange -->
 
-    <!-- <div class="sponsors-outer d-flex flex-column text-center">
+    <div class="sponsors-outer d-flex flex-column text-center">
       <h3>Strategic Media Partner</h3>
       <div class="row justify-content-center">
-        
+        <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
             <a href="#"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
           </figure>
         </div>
-        
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img src="pics/supportingAssociations/awima.jpg" alt=""
+                  /></a>
+                </figure>
+              </div> -->
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img
+                      src="pics/supportingAssociations/young-ship.jpg"
+                      alt=""
+                  /></a>
+                </figure>
+              </div> -->
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img src="pics/supportingAssociations/dcmmi.jpg" alt=""
+                  /></a>
+                </figure>
+              </div> -->
+      </div>
+    </div>
+    <div class="sponsors-outer d-flex flex-column text-center">
+      <h3>Regional Media Partner</h3>
+      <div class="row justify-content-center">
+        <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
             <a href="#"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
           </figure>
         </div>
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img src="/pics/supportingAssociations/dsaa1.jpg" alt=""
+                  /></a>
+                </figure>
+              </div> -->
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img src="/pics/supportingAssociations/ics1.jpg" alt=""
+                  /></a>
+                </figure>
+              </div> -->
+
+        <!-- Client Block -->
+        <!-- <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                <figure class="image-box">
+                  <a href="#"
+                    ><img src="/pics/supportingAssociations/gobalia.jpg" alt=""
+                  /></a>
+                </figure>
+              </div> -->
       </div>
-    </div> -->
+    </div>
     <!-- sp -->
     <div class="sponsors-outer">
       <!-- <h3>Silver Sponsors</h3> -->
@@ -2334,124 +2361,124 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/trade-mark.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/trade-mark.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/cio-engry.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/coal-spot.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/expo-rooms.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="http://www.petrofinder.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/petro-finder.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/petro-finder.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://sailortoday.in/" target="_blank"><img src="pics/MEDIA-PARTNERS/sailor-today.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/sailor-today.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/worldils.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/financial.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/green-journal.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.greenmatch.co.uk/boilers/combi-boilers/electric-combi-boilers" target="_blank"><img src="pics/MEDIA-PARTNERS/green-match.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/green-match.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/oasis.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/oasis.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="http://refinerlink.com/cgi-sys/suspendedpage.cgi" target="_blank"><img src="pics/MEDIA-PARTNERS/refinerlink.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/refinerlink.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.hellenicshippingnews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/hellenic.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/hellenic.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/ufo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/projectCargo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.freightbook.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/freightbook.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/freightbook.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/energy.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.marineinsight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marine.jpg" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/marine.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
+            <a href="#"><img src="pics/MEDIA-PARTNERS/bunker.jpg" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2474,7 +2501,7 @@
               <div class="icon-box">
                 <span class="icon flaticon-rocket-ship"></span>
               </div>
-              <h2>HAVE QUESTIONS ?</h2>
+              <h2>HAVE QUESTIONS</h2>
               <div class="text">
                 FILL THE FORM AND ONE OF OUR TEAM MEMBER WILL REACH OUT TO
                 YOU
@@ -2516,7 +2543,7 @@
 
               <div class="form-group">
                 <span class="icon fa fa-edit"></span>
-                <textarea name="message" placeholder="Additional message"></textarea>
+                <textarea name="message" placeholder="Additional Message"></textarea>
               </div>
 
               <div class="form-group">
@@ -2635,15 +2662,16 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/1-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">17th March, 2023</h5>
-                <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition
+                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
+                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  Industry veterans and organisations honoured at the
+                  prestigious SHIPTEK INTERNATIONAL AWARDS 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://www.marasinews.com/top-news/industry-veterans-and-organisations-honoured-prestigious-shiptek-international-awards-2022" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2652,15 +2680,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/2-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">22nd March, 2023</h5>
-                <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023
+                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
+                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://www.hellenicshippingnews.com/industry-veterans-organizations-honoured-with-the-prestigious-shiptek-international-awards-2022/" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2669,15 +2697,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/3.1-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">24th March, 2023</h5>
-                <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023
+                <h5 class="card-title" style="color: red;">08th March, 2022</h5>
+                <p class="card-text text-justify" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
+                  Ministry of Energy and Infrastructure wins award at ShipTek 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://uaenews247.com/2023/03/24/wingd-bags-digital-solutions-provider-of-the-year-title-at-shiptek-international-awards-2023/" target="_blank" class="card-link btn-sm btn-primary">Read
+                <a href="https://www.wam.ae/en/details/1395303027757" class="card-link btn-sm btn-primary">Read
                   More</a mb-4 d-flex justify-content-center>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
@@ -2686,7 +2714,7 @@
           <!-- end card -->
         </div>
         <div class="btn-box d-flex justify-content-center">
-          <a href="blog-full" class="theme-btn btn-style-one" target="_blank"><span class="btn-title">View More</span></a>
+          <a href="blog-full.php" class="theme-btn btn-style-one"><span class="btn-title">View More</span></a>
         </div>
       </div>
       <!-- end bootstrap -->
@@ -2699,10 +2727,10 @@
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
-    <div class="modal-content" style="background-color: #fffefa;">
+    <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title" id="exampleModalLabel" style="color: #1e1f36; font-weight:700">Media Registration</h3>
-        <button style="margin-top: 0px;" type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <h5 class="modal-title" id="exampleModalLabel">Media Registration</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
@@ -2744,13 +2772,11 @@
                 <div class="col-md-12 col-sm-12 mt-3">
                   <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
                 </div>
-                <div class="row justify-content-center mt-3">
-                  <button type="submit" name="submit" id="submit" class="btn btn-primary">Submit</button>
-                  <button type="button" class="btn btn-dark" style="display: none" id="waitmsg" value="Please Wait..." disabled="disabled">
-                    Please Wait...
-                  </button>
-                </div>
-                <div class="modal-footer mt-4">
+                <button type="submit" name="submit" id="submit" class="btn btn-primary">Register</button>
+                <button type="button" class="btn btn-dark" style="display: none" id="waitmsg" value="Please Wait..." disabled="disabled">
+                  Please Wait...
+                </button>
+                <div class="modal-footer">
                   <!--<button type="submit" id="submit" class="btn btn-primary">Register</button>
 					  <button type="button" class="btn btn-dark" style="display: none"  id="waitmsg" value="Please Wait..." disabled="disabled">
                                         Please Wait...
@@ -2779,10 +2805,10 @@
 
     },
     messages: {
-      name: "Please enter name of media.",
-      location: "Please enter location.",
-      website: "Please enter your website.",
-      information: "Please enter your information.",
+      name: "Please enter your name.",
+      location: "Please enter your last name.",
+      website: "Please enter your mobile number.",
+      information: "Please enter your phone number.",
 
     },
     errorPlacement: function(error, element) {
@@ -2796,7 +2822,7 @@
 
 
     submitHandler: function() {
-      if (grecaptcha.getResponse(1) == "") {
+      if (grecaptcha.getResponse() == "") {
         alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
         return false;
       }

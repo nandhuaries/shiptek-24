@@ -2,7 +2,7 @@
 <!-- Banner Section -->
 <section class="banner-section">
   <video autoplay muted loop plays-inline class="backgroundClip">
-    <source src="video/video.mp4" type="video/mp4" />
+    <source src="video/shiptek23-india.mp4" type="video/mp4" />
   </video>
   <div class="banner-carousel owl-carousel owl-theme">
     <!-- Slide Item -->
@@ -101,7 +101,7 @@
       <div class="image-column col-lg-6 col-md-12 col-sm-12">
         <div class="image-box">
           <figure class="image wow fadeIn">
-            <img src="pics/index-images/new-Project.jpg" alt="" />
+            <img src="images/resource/about-img-1.jpg" alt="" />
           </figure>
         </div>
       </div>
@@ -1451,7 +1451,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1477,7 +1477,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">
@@ -1580,7 +1580,7 @@
             </div>
 
             <!-- schedule Block -->
-            <!-- <div class="schedule-block even">
+            <div class="schedule-block even">
               <div class="inner-box">
                 <div class="inner">
                   <div class="date">
@@ -1606,7 +1606,7 @@
                   </div>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- schedule Block -->
             <!-- <div class="schedule-block">
@@ -2163,7 +2163,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
+            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.png" alt="" /></a>
           </figure>
         </div>
 
@@ -2202,7 +2202,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
+            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
           </figure>
         </div>
 
@@ -2242,20 +2242,20 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
+            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.png" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
+            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
+            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.png" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2341,21 +2341,21 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
+            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
+            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
+            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2373,19 +2373,19 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
+            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
+            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
+            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2415,13 +2415,13 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
+            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
+            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2439,7 +2439,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
+            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2451,7 +2451,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
+            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.jpg" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2635,15 +2635,16 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/1-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news1.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">17th March, 2023</h5>
+                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
                 <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  Cutting-Edge Maritime Technology Takes Center Stage at ShipTek International Conference 2023 – Dubai Edition
+                  Industry veterans and organisations honoured at the
+                  prestigious SHIPTEK INTERNATIONAL AWARDS 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://assafinaonline.com/news_details/en/15648/Cutting-Edge-Maritime-Technology-Takes-Center-Stage-at-ShipTek-International-Conference-2023-Dubai-Edition" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://www.marasinews.com/top-news/industry-veterans-and-organisations-honoured-prestigious-shiptek-international-awards-2022" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2652,15 +2653,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/2-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news2.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">22nd March, 2023</h5>
+                <h5 class="card-title" style="color: red;">09th March, 2022</h5>
                 <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023
+                  Industry Veterans & Organizations honoured with the prestigious ShipTek International Awards 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://www.zawya.com/en/press-release/government-news/uae-ministry-of-energy-and-infrastructure-wins-excellence-in-governance-maritime-award-at-shiptek-awards-2023-irh34tpi" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
+                <a href="https://www.hellenicshippingnews.com/industry-veterans-organizations-honoured-with-the-prestigious-shiptek-international-awards-2022/" target="_blank" class="card-link btn-sm btn-primary">Read More</a>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>
             </div>
@@ -2669,15 +2670,15 @@
           <!-- card -->
           <div class="col-lg-4 col-12 col-md-6 mb-4 d-flex justify-content-center wow fadeInRight" data-wow-delay="400ms">
             <div class="card" style="width: 18rem">
-              <img class="card-img-top" src="pics/blog/3.1-new.PNG" alt="Card image cap" />
+              <img class="card-img-top" src="pics/blog/shiptek22-news3.png" alt="Card image cap" />
               <div class="card-body">
-                <h5 class="card-title" style="color: red;">24th March, 2023</h5>
+                <h5 class="card-title" style="color: red;">08th March, 2022</h5>
                 <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
-                  WINGD BAGS “DIGITAL SOLUTIONS PROVIDER OF THE YEAR” TITLE AT SHIPTEK INTERNATIONAL AWARDS 2023
+                  Ministry of Energy and Infrastructure wins award at ShipTek 2022
                 </p>
               </div>
               <div class="card-body">
-                <a href="https://uaenews247.com/2023/03/24/wingd-bags-digital-solutions-provider-of-the-year-title-at-shiptek-international-awards-2023/" target="_blank" class="card-link btn-sm btn-primary">Read
+                <a href="https://www.wam.ae/en/details/1395303027757" target="_blank" class="card-link btn-sm btn-primary">Read
                   More</a mb-4 d-flex justify-content-center>
                 <!-- <a href="#" class="card-link">Another link</a> -->
               </div>

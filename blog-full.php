@@ -36,7 +36,7 @@
                 <div class="card" style="width: 18rem">
                     <img class="card-img-top" src="pics/blog/2-new.PNG" alt="Card image cap" />
                     <div class="card-body">
-                        <h5 class="card-title" style="color: red;">22th March, 2023</h5>
+                        <h5 class="card-title" style="color: red;">22nd March, 2023</h5>
                         <p class="card-text" style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
                             UAE Ministry of Energy and Infrastructure wins “Excellence In Governance - Maritime” award at ShipTek Awards 2023
                         </p>
@@ -71,7 +71,7 @@
                 <div class="card" style="width: 18rem">
                     <img class="card-img-top" src="pics/blog/4-new.PNG" alt="Card image cap" />
                     <div class="card-body">
-                        <h5 class="card-title" style="color: red;">22th March, 2023</h5>
+                        <h5 class="card-title" style="color: red;">22nd March, 2023</h5>
                         <p class="card-text " style="color: black; font-weight: 500; font-family: 'Ubuntu', sans-serif;">
                             Mawani wins Excellence in corporate Branding at ShipTek Awards 2023
                         </p>
