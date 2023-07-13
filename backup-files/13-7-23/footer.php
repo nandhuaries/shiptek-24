@@ -10,8 +10,7 @@
             <!-- new my code -->
             <div class="col-lg-4 col-12 col-md-4">
               <div class="mb-3">
-                <!-- <img src="pics/logos/navLogo.png" alt="logo" class="img-fluid"> -->
-                <img src="pics/logos/shipTek-24.png" alt="logo" class="img-fluid">
+                <img src="pics/logos/navLogo.png" alt="logo" class="img-fluid">
               </div>
               <div>
                 <ul class="social-icon-one social-icon-colored">

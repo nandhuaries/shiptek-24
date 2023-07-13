@@ -2163,7 +2163,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
+            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.png" alt="" /></a>
           </figure>
         </div>
 
@@ -2202,7 +2202,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
+            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.jpg" alt="" /></a>
           </figure>
         </div>
 
@@ -2242,20 +2242,20 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
+            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.png" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box h-100">
-            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
+            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
+            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.png" alt="" /></a>
           </figure>
         </div>
       </div>
@@ -2341,21 +2341,21 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
+            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
+            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.jpg" alt="" /></a>
           </figure>
         </div>
 
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
+            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2373,19 +2373,19 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
+            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
+            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
+            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2415,19 +2415,19 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
+            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
+            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
+            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/resize/cargoConnections.png" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2439,7 +2439,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
+            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.jpg" alt="" /></a>
           </figure>
         </div>
         <!-- Client Block -->
@@ -2451,7 +2451,7 @@
         <!-- Client Block -->
         <div class="client-block col-lg-3 col-md-6 col-sm-12">
           <figure class="image-box">
-            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
+            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/resize/bunker.png" alt="" /></a>
           </figure>
         </div>
       </div>

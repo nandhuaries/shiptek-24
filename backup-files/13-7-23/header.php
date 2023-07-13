@@ -77,8 +77,7 @@ $pagename=basename($_SERVER['PHP_SELF']);
                 <div class="auto-container clearfix">
                     <div class="logo-box">
                         <div class="logo">
-                            <!-- <a href="index"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a> -->
-                            <a href="index"><img class="logo23" src="pics/logos/shipTek-24.png" alt="" title="" /></a>
+                            <a href="index"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
                         </div>
                     </div>
 
