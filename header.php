@@ -196,7 +196,8 @@ $pagename=basename($_SERVER['PHP_SELF']);
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 <nav class="menu-box">
                     <div class="nav-logo">
-                        <a href="index"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a>
+                        <!-- <a href="index"><img class="logo23" src="pics/logos/navLogo.png" alt="" title="" /></a> -->
+                        <a href="index"><img class="logo23" src="pics/logos/shipTek-24.png" alt="" title="" /></a>
                     </div>
 
                     <ul class="navigation clearfix">

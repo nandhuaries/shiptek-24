@@ -1,6 +1,10 @@
-.backgroundClip{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
+.backgroundClip {
+  /* to fix large screen width */
+  min-height: 100%;
+  min-width: 100%;
+  /* end to fix large screen width */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
 }
