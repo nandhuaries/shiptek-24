@@ -7,8 +7,6 @@
       <li><a href="index">Home</a></li>
       <li>Nomination Registration</li>
     </ul>
-    <p style="color: white;">25th January 2024 <br> 05:00 PM - 09:00 PM</p>
-    <p style="color: white;"><span style="color: #faaC1D; margin-right: 5px;" class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL , DUBAI</p>
   </div>
   <div class="auto-container mt-5">
     <img style="height: 100px; position: relative; " class="img" src="pics/award/award.png" alt="">

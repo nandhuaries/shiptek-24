@@ -8,13 +8,6 @@
       <li><a href="index">Home</a></li>
       <li>Delegate Registration</li>
     </ul>
-    <p style="color: white;">24th - 25th January 2024 <br> 09:00 AM - 05:00 PM</p>
-    <p style="color: white;"><span style="color: #faaC1D; margin-right: 5px;" class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL , DUBAI</p>
-    <!-- <ul>
-      <li style="font-weight:600;font-size: 25px;">
-        <span class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL,DUBAI
-      </li>
-    </ul> -->
   </div>
 </section>
 <!--End Page Title-->
@@ -128,17 +121,14 @@
       lastname: "required",
       company: "required",
       country: "required",
-      companynumber: {
-        required: true,
-        number: true
-      },
+      companynumber: "required",
       sector: "required",
       nationality: "required",
       designation: "required",
       official_email: "required",
-      //email: "required",
+      email: "required",
       mobilenumber: "required",
-      //department: "required",
+      department: "required",
 
 
     },
@@ -152,9 +142,9 @@
       nationality: "Please enter your nationality.",
       designation: "Please enter your designation.",
       official_email: "Please enter your official email.",
-      //email: "Please enter your email.",
+      email: "Please enter your email.",
       mobilenumber: "Please enter your mobile number.",
-      //department: "Please enter your department.",
+      department: "Please enter your department.",
 
     },
     errorPlacement: function(error, element) {

@@ -9,7 +9,7 @@
     <div class="slide-item">
       <div class="auto-containerr movTop">
         <div class="content-box">
-          <span class="title">24th - 25th January 2024 | 09:00 AM - 05:00 PM
+          <span class="title">5th - 6th March 2024 | 09:00 AM - 05:00 PM
           </span>
           <!-- <span class="title">09:00 AM - 05:00 PM</span> -->
           <h2>
@@ -19,7 +19,7 @@
           <ul class="info-list">
             <!-- <li><span class="icon fa fa-chair"></span> 5000 Seats</li>
                   <li><span class="icon fa fa-user-alt"></span> 12 SPEAKERS</li> -->
-            <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL,DUBAI</li>
+            <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>DUBAI</li>
           </ul>
           <div class="btn-box">
             <a href="sponsorship-enquiry-form" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
@@ -43,7 +43,7 @@
   <div class="auto-container">
     <div class="outer-box">
       <div class="time-counter">
-        <div class="time-countdown clearfix" data-countdown="01/24/2024"></div>
+        <div class="time-countdown clearfix" data-countdown="03/05/2024"></div>
       </div>
     </div>
   </div>
@@ -1386,374 +1386,6 @@
       </section> -->
 <!--End Fun Fact Section -->
 
-<!-- sponsors -->
-
-<section class="clients-section">
-  <div class="anim-icons">
-    <span class="icon icon-dots-3 wow zoomIn"></span>
-    <span class="icon icon-circle-blue wow zoomIn"></span>
-  </div>
-  <div class="auto-container">
-    <div class="sec-title">
-      <span class="title">ShipTek</span>
-      <h2>Sponsor</h2>
-    </div>
-    <!-- rearrange -->
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #FFD700;" class="w-100 text-center">Gold Sponsor</h3>
-            <div>
-              <!-- Client Block -->
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="javascript:void(0)" style="cursor: initial;"><img src="pics/gold-sponsors/lenol.png" alt="Lenol logo" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- second -->
-      <!-- <div class="row justify-content-center">
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
-            <div>
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="https://assafinaonline.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-    </div>
-    <!-- end rearrange -->
-  </div>
-</section>
-
-<!-- end sponsors -->
-
-<!--Clients Section-->
-<section class="clients-section">
-  <div class="anim-icons">
-    <span class="icon icon-dots-3 wow zoomIn"></span>
-    <span class="icon icon-circle-blue wow zoomIn"></span>
-  </div>
-  <div class="auto-container">
-    <div class="sec-title">
-      <span class="title">ShipTek</span>
-      <h2>Media Partners</h2>
-    </div>
-    <!-- rearrange -->
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #40cbb4;" class="w-100 text-center">Strategic Media Partner</h3>
-            <div>
-              <!-- Client Block -->
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="https://www.marasinews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- second -->
-        <div class="col-12 col-lg-4 col-md-4">
-          <div class="sponsors-outer">
-            <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
-            <div>
-              <!-- Client Block -->
-              <div class="client-block ">
-                <figure class="image-box">
-                  <a href="https://assafinaonline.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end second -->
-      </div>
-    </div>
-    <!-- end rearrange -->
-
-    <!-- <div class="sponsors-outer d-flex flex-column text-center">
-      <h3>Strategic Media Partner</h3>
-      <div class="row justify-content-center">
-        
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="#"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
-          </figure>
-        </div>
-        
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="#"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
-          </figure>
-        </div>
-      </div>
-    </div> -->
-    <!-- sp -->
-    <div class="sponsors-outer">
-      <!-- <h3>Silver Sponsors</h3> -->
-      <div class="row">
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/trade-mark.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="http://www.petrofinder.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/petro-finder.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://sailortoday.in/" target="_blank"><img src="pics/MEDIA-PARTNERS/sailor-today.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.greenmatch.co.uk/boilers/combi-boilers/electric-combi-boilers" target="_blank"><img src="pics/MEDIA-PARTNERS/green-match.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/oasis.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="http://refinerlink.com/cgi-sys/suspendedpage.cgi" target="_blank"><img src="pics/MEDIA-PARTNERS/refinerlink.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.hellenicshippingnews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/hellenic.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.freightbook.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/freightbook.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.marineinsight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marine.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
-          </figure>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!--End Clients Section-->
-
-<!--Clients Section-->
-<section class="clients-section">
-  <div class="anim-icons">
-    <span class="icon icon-dots-3 wow zoomIn"></span>
-    <span class="icon icon-circle-blue wow zoomIn"></span>
-  </div>
-  <div class="auto-container">
-    <div class="sec-title">
-      <span class="title">ShipTek</span>
-      <h2>Supporting Association</h2>
-    </div>
-
-    <div class="sponsors-outer">
-      <!-- <h3>Platinum Sponsors</h3> -->
-      <div class="row">
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="http://www.arabwima.org/en/home" target="_blank"><img src="pics/supportingAssociations/awima.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://youngship.com/departments/uae/" target="_blank"><img src="pics/supportingAssociations/young-ship.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.dcmmiemirates.ae/" target="_blank"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
-          </figure>
-        </div>
-      </div>
-    </div>
-    <div class="sponsors-outer">
-      <!-- <h3>Gold Sponsors</h3> -->
-      <div class="row">
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.fonasba.com/" target="_blank"><img src="pics/fonsaba1.png" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/ics1.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.globalialogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/gobalia.jpg" alt="" /></a>
-          </figure>
-        </div>
-      </div>
-    </div>
-
-    <div class="sponsors-outer">
-      <!-- <h3>Silver Sponsors</h3> -->
-      <div class="row">
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.thecooperativelogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/cooperative.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.conquerornetwork.com/" target="_blank"><img src="pics/supportingAssociations/conqueror.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
-          </figure>
-        </div>
-
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box h-100">
-            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
-          </figure>
-        </div>
-        <!-- Client Block -->
-        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-          <figure class="image-box">
-            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
-          </figure>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!--End Clients Section-->
-
-
-
 <!-- schedule Section -->
 <section class="schedule-section" id="agenda">
   <div class="anim-icons">
@@ -1773,14 +1405,14 @@
         <ul class="tab-buttons clearfix">
           <li style="width: 200px" class="tab-btn active-btn" data-tab="#tab-1">
             <span class="day">Day 01</span>
-            <span class="date">24</span>
-            <span class="month">January</span> 2024
+            <span class="date">05</span>
+            <span class="month">March</span> 2024
           </li>
 
           <li style="width: 200px" class="tab-btn" data-tab="#tab-2">
             <span class="day">Day 02</span>
-            <span class="date">25</span>
-            <span class="month">January</span> 2024
+            <span class="date">06</span>
+            <span class="month">March</span> 2024
           </li>
         </ul>
       </div>
@@ -1805,14 +1437,14 @@
                           <span class="designation">Founder & CEO</span>
                         </div> -->
                   <h4>
-                    <a href="javascript:void(0)">CONFERENCE</a>
+                    <a href="#">CONFERENCE</a>
                   </h4>
                   <!-- <div class="text">
                           Lorem ipsum dolor sit amet, consectetur adipisicing
                           elit, sed do eiusmtempor incididunt labore et
                         </div> -->
                   <div class="btn-box">
-                    <a href="javascript:void(0)" class="theme-btn">Read More</a>
+                    <a href="#" class="theme-btn">Read More</a>
                   </div>
                 </div>
               </div>
@@ -1934,14 +1566,14 @@
                           <span class="designation">Founder & CEO</span>
                         </div> -->
                   <h4>
-                    <a href="javascript:void(0)">CONFERENCE & AWARDS</a>
+                    <a href="event-detail.html">CONFERENCE & AWARDS</a>
                   </h4>
                   <!-- <div class="text">
                           Lorem ipsum dolor sit amet, consectetur adipisicing
                           elit, sed do eiusmtempor incididunt labore et
                         </div> -->
                   <div class="btn-box">
-                    <a href="javascript:void(0)" class="theme-btn">Read More</a>
+                    <a href="#" class="theme-btn">Read More</a>
                   </div>
                 </div>
               </div>
@@ -2513,12 +2145,320 @@
 </section>
 <!-- End Why Choose Us -->
 
+<!--Clients Section-->
+<section class="clients-section">
+  <div class="anim-icons">
+    <span class="icon icon-dots-3 wow zoomIn"></span>
+    <span class="icon icon-circle-blue wow zoomIn"></span>
+  </div>
+  <div class="auto-container">
+    <div class="sec-title">
+      <span class="title">ShipTek</span>
+      <h2>Supporting Association</h2>
+    </div>
 
+    <div class="sponsors-outer">
+      <!-- <h3>Platinum Sponsors</h3> -->
+      <div class="row">
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/clean-shipping-logo.jpg" alt="" /></a>
+          </figure>
+        </div>
 
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="http://www.arabwima.org/en/home" target="_blank"><img src="pics/supportingAssociations/awima.jpg" alt="" /></a>
+          </figure>
+        </div>
 
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://youngship.com/departments/uae/" target="_blank"><img src="pics/supportingAssociations/young-ship.jpg" alt="" /></a>
+          </figure>
+        </div>
 
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.dcmmiemirates.ae/" target="_blank"><img src="pics/supportingAssociations/dcmmi.jpg" alt="" /></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="sponsors-outer">
+      <!-- <h3>Gold Sponsors</h3> -->
+      <div class="row">
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.fonasba.com/" target="_blank"><img src="pics/fonsaba1.png" alt="" /></a>
+          </figure>
+        </div>
 
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.dubaisaa.ae/" target="_blank"><img src="pics/supportingAssociations/dsaa1.png" alt="" /></a>
+          </figure>
+        </div>
 
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="Javascript: void(0)"><img src="pics/supportingAssociations/ics1.jpg" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.globalialogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/gobalia.jpg" alt="" /></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+
+    <div class="sponsors-outer">
+      <!-- <h3>Silver Sponsors</h3> -->
+      <div class="row">
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.thecooperativelogisticsnetwork.com/" target="_blank"><img src="pics/supportingAssociations/cooperative.jpg" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.conquerornetwork.com/" target="_blank"><img src="pics/supportingAssociations/conqueror.jpg" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.internationalfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/internationalFreight.jpg" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box h-100">
+            <a href="https://www.specialistfreightnetworks.com/default.aspx" target="_blank"><img src="pics/supportingAssociations/specialist.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.worldfreightnetwork.com/" target="_blank"><img src="pics/supportingAssociations/worldFrieghtNet.jpg" alt="" /></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Clients Section-->
+
+<!--Clients Section-->
+<section class="clients-section">
+  <div class="anim-icons">
+    <span class="icon icon-dots-3 wow zoomIn"></span>
+    <span class="icon icon-circle-blue wow zoomIn"></span>
+  </div>
+  <div class="auto-container">
+    <div class="sec-title">
+      <span class="title">ShipTek</span>
+      <h2>Media Partners</h2>
+    </div>
+    <!-- rearrange -->
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-4 col-md-4">
+          <div class="sponsors-outer">
+            <h3 style="background-color: #40cbb4;" class="w-100 text-center">Strategic Media Partner</h3>
+            <div>
+              <!-- Client Block -->
+              <div class="client-block ">
+                <figure class="image-box">
+                  <a href="https://www.marasinews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- second -->
+        <div class="col-12 col-lg-4 col-md-4">
+          <div class="sponsors-outer">
+            <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
+            <div>
+              <!-- Client Block -->
+              <div class="client-block ">
+                <figure class="image-box">
+                  <a href="https://assafinaonline.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end second -->
+      </div>
+    </div>
+    <!-- end rearrange -->
+
+    <!-- <div class="sponsors-outer d-flex flex-column text-center">
+      <h3>Strategic Media Partner</h3>
+      <div class="row justify-content-center">
+        
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="#"><img src="pics/MEDIA-PARTNERS/marasinews.jpg" alt="" /></a>
+          </figure>
+        </div>
+        
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="#"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
+          </figure>
+        </div>
+      </div>
+    </div> -->
+    <!-- sp -->
+    <div class="sponsors-outer">
+      <!-- <h3>Silver Sponsors</h3> -->
+      <div class="row">
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/trade-mark.jpg" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.energycioinsights.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/cio-engry.png" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="http://www.coalspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/coal-spot.png" alt="" /></a>
+          </figure>
+        </div>
+
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://exporooms.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/expo-rooms.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="http://www.petrofinder.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/petro-finder.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://sailortoday.in/" target="_blank"><img src="pics/MEDIA-PARTNERS/sailor-today.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.worldoils.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/worldils.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.financialnigeria.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/financial.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.greenjournal.co.uk/" target="_blank"><img src="pics/MEDIA-PARTNERS/green-journal.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.greenmatch.co.uk/boilers/combi-boilers/electric-combi-boilers" target="_blank"><img src="pics/MEDIA-PARTNERS/green-match.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="Javascript: void(0)"><img src="pics/MEDIA-PARTNERS/oasis.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="http://refinerlink.com/cgi-sys/suspendedpage.cgi" target="_blank"><img src="pics/MEDIA-PARTNERS/refinerlink.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.hellenicshippingnews.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/hellenic.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.ufofreight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/ufo.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.projectcargonetwork.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/projectCargo.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.cargoconnections.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/cargoConnections.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.freightbook.net/" target="_blank"><img src="pics/MEDIA-PARTNERS/freightbook.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.energydais.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/energy.png" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.marineinsight.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/marine.jpg" alt="" /></a>
+          </figure>
+        </div>
+        <!-- Client Block -->
+        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+          <figure class="image-box">
+            <a href="https://www.bunkerspot.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/bunker.png" alt="" /></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Clients Section-->
 
 <!-- Register Section -->
 <section class="register-section" id="contact">
