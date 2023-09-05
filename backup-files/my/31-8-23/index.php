@@ -1388,7 +1388,7 @@
 
 <!-- sponsors -->
 
-<section class="clients-section" id="sponsors">
+<section class="clients-section">
   <div class="anim-icons">
     <span class="icon icon-dots-3 wow zoomIn"></span>
     <span class="icon icon-circle-blue wow zoomIn"></span>
@@ -1416,61 +1416,20 @@
         </div>
       </div>
       <!-- second -->
-      <div class="row justify-content-center">
-        <div class="col-12">
+      <!-- <div class="row justify-content-center">
+        <div class="col-12 col-lg-4 col-md-4">
           <div class="sponsors-outer">
-            <h3 style="background-color: #1d95d2; margin-bottom: 40px;" class="w-100 text-center">Lunch & Coffee Sponsors</h3>
-            <div class="row justify-content-center">
-              <div class="col-12 col-lg-4 col-md-6">
-                <div class="client-block">
-                  <figure class="image-box">
-                    <a href="javascript:void(0);"><img src="pics/lunch-and-coffe/ruby.webp" alt="Lunch & Coffee Sponsor" /></a>
-                  </figure>
-                </div>
-              </div>
-              <div class="col-12 col-lg-4 col-md-6">
-                <div class="client-block">
-                  <figure class="image-box">
-                    <a href="javascript:void(0);"><img src="pics/lunch-and-coffe/alvana.webp" alt="Lunch & Coffee Sponsor" /></a>
-                  </figure>
-                </div>
+            <h3 style="background-color: #1d95d2;" class="w-100 text-center">Regional Media Partner</h3>
+            <div>
+              <div class="client-block ">
+                <figure class="image-box">
+                  <a href="https://assafinaonline.com/" target="_blank"><img src="pics/MEDIA-PARTNERS/robban-assafina.jpg" alt="" /></a>
+                </figure>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <!-- end second -->
-      <!-- third -->
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <div class="sponsors-outer">
-            <h3 style="background: linear-gradient(to right, rgba(128, 0, 128, 1), rgba(238, 130, 238, 1));
-              margin-bottom: 40px;" class="w-100 text-center">ASSOCIATE SPONSORS
-            </h3>
-            <div class="row justify-content-center">
-              <div class="col-12 col-lg-4 col-md-6">
-                <div class="client-block">
-                  <figure class="image-box">
-                    <a href="https://www.albwardydamen.com/" target="_blank">
-                      <img src="pics/assosiate/albwardy.png" alt="albwardy" />
-                    </a>
-                  </figure>
-                </div>
-              </div>
-              <div class="col-12 col-lg-4 col-md-6">
-                <div class="client-block">
-                  <figure class="image-box">
-                    <a href="https://seamastermaritime.com/" target="_blank">
-                      <img src="pics/assosiate/seamaster.png" alt="seamaster" />
-                    </a>
-                  </figure>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- end third -->
+      </div> -->
     </div>
     <!-- end rearrange -->
   </div>
@@ -2428,7 +2387,7 @@
 <!--End Pricing Section -->
 
 <!-- Video Section -->
-<section class="video-section">
+<section class="video-section" id="sponsors">
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
