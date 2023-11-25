@@ -1,0 +1,42 @@
+.speak {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.inp {
+  height: 50px;
+}
+.topics-int {
+  height: 240px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shado:before{
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #000000;
+	opacity: .70;
+	content: "";
+}
+
+.auto-containerr{
+  position:static;
+  max-width:1200px;
+  padding:0px 15px;
+  margin:0 auto;
+}
+
+@media only screen and (min-width: 992px){
+  .auto-containerr{
+    position:static;
+    max-width:1200px;
+    padding:0px 15px;
+    margin:-60px auto 0;
+  }
+  .movTop{
+    margin-top: -110px !important;
+  }
+}

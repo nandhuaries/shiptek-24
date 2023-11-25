@@ -1,5 +1,7 @@
 <?php
-$pagename=basename($_SERVER['PHP_SELF']);
+$pagename = basename($_SERVER['PHP_SELF']);
+date_default_timezone_set("Asia/Dubai");
+date_default_timezone_get();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,36 +28,38 @@ $pagename=basename($_SERVER['PHP_SELF']);
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-	<meta property="og:image" content="https://shiptekmaritimeevents.com/shiptek-2024/pics/logos/shipeve.png"/>
-<meta property="og:image:type" content="image/png"/>
-<meta property="og:image:width" content="350"/>
-<meta property="og:image:height" content="58"/>
+    <meta property="og:image" content="https://shiptekmaritimeevents.com/shiptek-2024/pics/logos/shipeve.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="350" />
+    <meta property="og:image:height" content="58" />
 
- <?php  if($pagename=="index.php") { ?> 
-    <title>ShipTek 2024 - Dubai</title>
-    <meta property="og:title" content="ShipTek 2024 - Dubai" />
-  <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-2024/">
+    <?php if ($pagename == "index.php") { ?>
+        <title>ShipTek 2024 - Dubai</title>
+        <meta property="og:title" content="ShipTek 2024 - Dubai" />
+        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-2024/">
 
 
-<?php } if($pagename=="blog-full.php") { ?> 
-    <title>Blog | ShipTek 2024 - Dubai</title>
-    <meta property="og:title" content="Blog | ShipTek 2024 - Dubai" />
-    <meta property="og:url" 
-    content="http://shiptekmaritimeevents.com/shiptek-2024/blog-full">
+    <?php }
+    if ($pagename == "blog-full.php") { ?>
+        <title>Blog | ShipTek 2024 - Dubai</title>
+        <meta property="og:title" content="Blog | ShipTek 2024 - Dubai" />
+        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-2024/blog-full">
 
-<?php } if($pagename=="delegate-registration.php") { ?> 
-    <title>Delegate Registration | ShipTek 2024 - Dubai</title>
-    <meta property="og:title" content="Delegate Registration | ShipTek 2024 - Dubai" />
-    <meta property="og:url" 
-    content="http://shiptekmaritimeevents.com/shiptek-2024/delegate-registration">
-<?php } if($pagename=="nomination-registration.php") { ?> 
-    <title>Nomination Registration | ShipTek 2024 - Dubai</title>
-    <meta property="og:title" content="Nomination Registration | ShipTek 2024 - Dubai" />
-    <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/nomination-registration">
-  <?php } if($pagename=="sponsorship-enquiry-form.php") { ?> 
-    <title>Sponsorship Enquiry | ShipTek 2024 - Dubai</title>
-    <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024 - Dubai" />
-    <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/sponsorship-enquiry-form">
+    <?php }
+    if ($pagename == "delegate-registration.php") { ?>
+        <title>Delegate Registration | ShipTek 2024 - Dubai</title>
+        <meta property="og:title" content="Delegate Registration | ShipTek 2024 - Dubai" />
+        <meta property="og:url" content="http://shiptekmaritimeevents.com/shiptek-2024/delegate-registration">
+    <?php }
+    if ($pagename == "nomination-registration.php") { ?>
+        <title>Nomination Registration | ShipTek 2024 - Dubai</title>
+        <meta property="og:title" content="Nomination Registration | ShipTek 2024 - Dubai" />
+        <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/nomination-registration">
+    <?php }
+    if ($pagename == "sponsorship-enquiry-form.php") { ?>
+        <title>Sponsorship Enquiry | ShipTek 2024 - Dubai</title>
+        <meta property="og:title" content="Sponsorship Enquiry | ShipTek 2024 - Dubai" />
+        <meta property="og:url" content="https://www.shiptekmaritimeevents.com/shiptek-2024/sponsorship-enquiry-form">
 
 
     <?php } ?>
@@ -63,6 +67,18 @@ $pagename=basename($_SERVER['PHP_SELF']);
       ]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script
     ><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    <style>
+        .blink {
+            animation: blinker 1.7s linear infinite;
+
+        }
+
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -101,28 +117,28 @@ $pagename=basename($_SERVER['PHP_SELF']);
                                 <ul class="navigation clearfix">
                                     <li class="current ">
                                         <a href="index">Home</a>
-                                        
+
                                     </li>
                                     <!-- removed li class name {dropdown}-->
                                     <li class="">
                                         <a href="index#about">About Us</a>
-                                        
+
                                     </li>
                                     <li class="">
                                         <a href="index#speakers">Speakers</a>
-                                        
+
                                     </li>
                                     <li class="">
                                         <a href="index#sponsors">Sponsors</a>
-                                        
+
                                     </li>
                                     <li class="">
-                                        <a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank" >Gallery</a>
-                                        
+                                        <a href="https://www.shiptekmaritimeevents.com/gallery" target="_blank">Gallery</a>
+
                                     </li>
                                     <li class="">
                                         <a href="index#agenda">Agenda</a>
-                                        
+
                                     </li>
                                     <li class="dropdown">
                                         <a href="Javascript: void(0)">Previous Editions</a>
