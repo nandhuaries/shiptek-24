@@ -84,7 +84,7 @@
 </style>
 <!-- Banner Section -->
 <section class="banner-section">
-    <video style="min-width: 100%;" autoplay muted playsinline loop preload="metadata">
+    <video autoplay muted playsinline loop preload="metadata">
         <source src="video/video.mp4" type="video/mp4" />
     </video>
     <div class="banner-carousel owl-carousel owl-theme content">
@@ -105,11 +105,11 @@
                         <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL,DUBAI</li>
                     </ul>
                     <!-- marque -->
-                    <!-- <marquee style="font-weight:600;font-size: 25px;">
+                    <marquee style="font-weight:600;font-size: 25px;">
                         <a style="color: red;" href="nomination-registration" target="_blank">
-                            <b>NOMINATIONS CLOSING ON 30TH DEC, CLICK HERE TO NOMINATE NOW..!!</b>
+                            <b> NOMINATIONS OPEN NOW, CLICK TO NOMINATE...</b>
                         </a>
-                    </marquee> -->
+                    </marquee>
                     <!-- marque -->
                     <div class="govImg row">
                         <h3 class="titleGov">Government Partner</h3>
@@ -123,8 +123,7 @@
                                 Sponsorship Enquiry</span></a>
                         <a href="delegate-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
-                        <!-- {blink} class for blink -->
-                        <a href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
+                        <a style="background-color: #ec167f;" href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4 blink"><span class="btn-title">Nomination Registration</span></a>
                         <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
                     </div>
 
@@ -143,7 +142,7 @@
         <div class="outer-box">
             <div class="time-counter">
                 <!-- <div class="time-countdown clearfix" data-countdown="01/24/2024"></div> -->
-                <div class="time-countdown clearfix" data-countdown="1/24/2024 09:00"></div>
+                <div class="time-countdown clearfix" data-countdown="1/23/2024"></div>
             </div>
         </div>
     </div>
@@ -634,17 +633,17 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/Natalie.jpg" alt="" /></a>
+                            <a href="Javascript: void(0)"><img src="pics/speakers/abhay-nimbalkar.jpg" alt="" /></a>
                         </figure>
                     </div>
                     <div class="info-box">
                         <div class="inner">
                             <h4 class="name">
-                                <a href="Javascript: void(0)">Natalie Jensen</a>
+                                <a href="Javascript: void(0)">Capt. Abhay Nimbalkar</a>
                             </h4>
-                            <span class="designation">Partner, Ince & Co</span>
+                            <span class="designation">CEO Greenfield Marine Technologies</span>
                             <div class="social-box">
-                                <button data-toggle="modal" data-target="#Natalie" class="btn btn-primary">View More</button>
+                                <button data-toggle="modal" data-target="#Abhay" class="btn btn-primary">View More</button>
                             </div>
 
                         </div>
@@ -652,7 +651,6 @@
                 </div>
             </div>
             <!-- Speaker Block -->
-
             <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image-box">
@@ -703,122 +701,6 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/jaideep-vohra.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Jaideep Vohra</a>
-                            </h4>
-                            <span class="designation">Fleet Performance and Drydocking Director</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Jaideep" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/veronika.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Veronika Aspelund</a>
-                            </h4>
-                            <span class="designation">Vice President – Mooring solutions, Wilhelmsen Ships Service</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Veronika" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/Xanthos.webp" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Xanthos Kyriacou</a>
-                            </h4>
-                            <span class="designation">Regional Managing Director , Columbia Shipmanagement</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Xanthos" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Speaker Block -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/hanan-ekhzaimy.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Hanan Ekhzaimy</a>
-                            </h4>
-                            <span class="designation" style="text-transform: capitalize;">Head Of Competitiveness & Marine Quality Moei UAE</span>
-                            <!-- <div class="social-box">
-                                <button data-toggle="modal" data-target="#Ramee-Rashid" class="btn btn-primary">View More</button>
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
-
-
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/Sarah.webp" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Sarah Al Qahtani </a>
-                            </h4>
-                            <span class="designation">Chartering Manager (Commercial & Operations), Bahri Dry Bulk</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Sarah" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Speaker Block -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
                             <a href="Javascript: void(0)"><img src="pics/speakers/willem-moelker.jpg" alt="" /></a>
                         </figure>
                     </div>
@@ -834,29 +716,6 @@
                 </div>
             </div>
             <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/speakers/abhay-nimbalkar.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Capt. Abhay Nimbalkar</a>
-                            </h4>
-                            <span class="designation">CEO Greenfield Marine Technologies</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Abhay" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Speaker Block -->
 
 
             <!-- Speaker Block -->
@@ -873,50 +732,6 @@
                                 <a href="Javascript: void(0)">Capt.Thomas Varghese</a>
                             </h4>
                             <span class="designation">Managing Director Synergy Mideast Ship Management</span>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/nikolaos.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Nikolaos Michas</a>
-                            </h4>
-                            <span class="designation">Global Tanker Segment Director, Lloyds Register</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Nikolaos" class="btn btn-primary">View More</button>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/sanjiv.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Sanjiv Wazir</a>
-                            </h4>
-                            <span class="designation">Technical Manager , Lenol DMCC</span>
-                            <!-- <div class="social-box">
-                                <button data-toggle="modal" data-target="#Nikolaos" class="btn btn-primary">View More</button>
-                            </div> -->
 
                         </div>
                     </div>
@@ -965,50 +780,6 @@
                             <span class="designation">Owner & Director Seamaster Maritime</span>
                             <div class="social-box">
                                 <button data-toggle="modal" data-target="#Ramee-Rashid" class="btn btn-primary">View More</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/jayakumar.png" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">Dr. Jayakumar</a>
-                            </h4>
-                            <span class="designation">Chief Executive Officer and Director Vizhinjam International Seaport Limited</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#Jayakumar" class="btn btn-primary">View More</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/xaj-Kitherian.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">X A J Kitherian</a>
-                            </h4>
-                            <span class="designation">Founder & CEO , Entoss Technologies</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#xaj-Kitherian" class="btn btn-primary">View More</button>
                             </div>
                         </div>
                     </div>
@@ -1154,15 +925,13 @@
                     <div class="container pt-5 pb-5 mt-3 d-flex justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 col-12 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>Tanker Operator of the Year</li>
                                     <li>Ship Operator of the Year</li>
                                     <li>CSR Award of the Year</li>
                                     <li>Best Ship Agency of the Year</li>
                                     <li>Best HSE Initiatives.</li>
                                     <li>Sustainable Organization of the Year</li>
-                                    <li>Excellence in Ports Infrastructure</li>
-                                    <li>Excellence in Marine Services</li>
                                     <li>Best Employer of the Year</li>
                                     <li>Ship Repair Yard of the Year</li>
                                     <li>Best Training Institute</li>
@@ -1174,7 +943,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>New Building Yard of the Year</li>
                                     <li>Rising Star – Organization</li>
                                     <li>Rising Star - Individual</li>
@@ -1392,16 +1161,6 @@
                     <div class="sponsors-outer">
                         <h3 style="background: #1d95d2" class="w-100 text-center">Conference Session Sponsors</h3>
                         <div class="row justify-content-center">
-
-
-                            <div class="col-12 col-lg-4 col-md-6">
-                                <div class="client-block ">
-                                    <figure class="image-box">
-                                        <a href="https://www.bahri.sa/" target="_blank"><img src="pics/conference-spons/bahri.png" alt="bahri" /></a>
-                                    </figure>
-                                </div>
-                            </div>
-
                             <!-- Client Block -->
                             <div class="col-12 col-lg-4 col-md-6">
                                 <div class="client-block ">
@@ -1438,15 +1197,6 @@
                                 </div>
                             </div>
                             <!-- end client -->
-                            <!-- Client Block -->
-                            <div class="col-12 col-lg-4 col-md-6">
-                                <div class="client-block ">
-                                    <figure class="image-box">
-                                        <a href="https://www.irclass.org/" target="_blank"><img src="pics/conference-spons/IRS-CLASS.png" alt="IRS-CLASS" /></a>
-                                    </figure>
-                                </div>
-                            </div>
-                            <!-- end client -->
                         </div>
                     </div>
                 </div>
@@ -1458,7 +1208,7 @@
                 <div class="col-12">
                     <div class="sponsors-outer">
                         <h3 style="background: #1d95d2;
-                            margin-bottom: 40px;" class="w-100 text-center">Associate Sponsors
+              margin-bottom: 40px;" class="w-100 text-center">Associate Sponsors
                         </h3>
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-4 col-md-6">
@@ -1542,28 +1292,6 @@
                                     <figure class="image-box">
                                         <a href="Javascript: void(0)">
                                             <img src="pics/assosiate/uni-marine.webp" alt="uni-marine" />
-                                        </a>
-                                    </figure>
-                                </div>
-                            </div>
-                            <!-- end sponsor -->
-                            <!-- sponsor -->
-                            <div class="col-12 col-lg-4 col-md-6">
-                                <div class="client-block">
-                                    <figure class="image-box">
-                                        <a href="Javascript: void(0)">
-                                            <img src="pics/assosiate/stoileff.jpg" alt="stoilef" />
-                                        </a>
-                                    </figure>
-                                </div>
-                            </div>
-                            <!-- end sponsor -->
-                            <!-- sponsor -->
-                            <div class="col-12 col-lg-4 col-md-6">
-                                <div class="client-block">
-                                    <figure class="image-box">
-                                        <a href="https://solasmarine.com/" target="_blank">
-                                            <img src="pics/assosiate/solas-marine.png" alt="solas-marine" />
                                         </a>
                                     </figure>
                                 </div>
@@ -3442,322 +3170,6 @@
             <div class="modal-body text-justify">
                 <p>
                     Ramee is a very dedicated and had working maritime professional who started his journey in the maritime industry in 2009 serving a large FSO conversion project in the Dubai dry-docks. He joined Seamaster Maritime L.L.C. in 2010, learning the ins and outs of the maritime industry, rapidly gained knowledge and helped expand the group by opening the office in Sohar – Oman, making it the first office outside of the UAE. With the experiences gained, he took over the reins of the family group in 2018, and has since then continuously improved and elevated the company’s profile and international recognition. Investments in the company is still at the forefront, with the current aim to digitalize the company with new systems and work methods, bringing it into a new age.
-                </p>
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Jaideep" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Jaideep Vohra</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Fleet Performance and Drydocking Director
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Jaideep Vohra began his sailing career as a Junior Engineer
-                    on board tankers and OBO vessels, having completed his Marine
-                    Engineering at DMET/MERI. He stepped ashore after gaining
-                    valuable technical expertise over his 15-year sailing career, the
-                    last five of which were as a Chief Engineer with Maersk Tankers.
-                    In 2008, he joined Mideast as a Technical Superintendent,
-                    responsible for VLCC operations. His exceptional performance
-                    led to his appointment as Assistant Fleet Manager in 2014,
-                    overseeing VLCCs, RORO vessels, and Bulk Carriers. Jaideep then
-                    became Fleet Manager in 2019, managing a mixed fleet of Product
-                    Tankers, RORO vessels, and Bulk Carriers. In 2021, he moved over
-                    to the Fleet Performance Department, overseeing the vessels'
-                    digitalization journey with a focus on monitoring and optimizing
-                    the fleet's performance. He currently holds the position of the
-                    Director, Fleet Performance and Drydocking.
-                </p>
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Veronika" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Veronika Aspelund</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Vice President – Mooring solutions, Wilhelmsen Ships Service
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    With 19 years of experience in shipping, Veronika began her journey at Norwegian ropes manufacturer Timm in 2004
-                    , where she gained industrial-related skills ranging from sales, marketing, operations, and business development.
-                </p>
-                <p>
-                    When Wilhelmsen acquired Timm in 2015, she was put in charge of managing the mooring ropes product portfolio.
-                    As Vice President - Mooring solutions for Wilhelmsen Ships Service, Veronika is instrumental in the ongoing
-                    development of safer and sustainable rope solutions. An epitome of which is the Snap Back Arrestor – the first
-                    verified and tested solution in the market that reduces the danger of snapback – developed with expert stakeholders
-                    such as in-house R&D, vessel owners, terminals, and international organizations.
-                </p>
-                <p>
-                    Veronika has rich experience and skills in the industry and is a board member in Eurocord, European Association
-                    of Rope, Twine and Netting manufacturers, their suppliers and affiliate industries.
-                </p>
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Natalie" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Natalie Jensen</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Partner, Ince & Co
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Natalie is a Partner at Ince & Co Middle East’s Dubai office. Her practice focuses on contentious and
-                    non-contentious matters in the shipping, international trade and energy sectors.
-                </p>
-                <p>
-                    Natalie advises a broad range of clients including shipowners, charterers, cargo interests, P&I clubs
-                    and insurers in connection with disputes arising out of charterparties, bills of lading, contracts of
-                    affreightment, and other contracts of carriage, as well as disputes arising out of collisions and allisions.
-                    In addition, Natalie advises clients on transactional commercial matters relating to international transport
-                    and trade.
-                </p>
-                <p>
-                    Natalie is experienced in working with lawyers in other jurisdictions and in coordinating multi-jurisdictional
-                    proceedings on a client’s behalf. She has a wide experience of commercial litigation in both the English
-                    High Court, UAE Courts and DIFC and London maritime arbitration centers.
-                </p>
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Xanthos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Xanthos Kyriacou</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Regional Managing Director, Columbia Shipmanagement
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Xanthos joined Columbia Shipmanagement Cyprus in 2000 and held various positions prior to his
-                    appointment as Columbia Group Regional Managing Director.
-                </p>
-                <p>
-                    Born in Limassol, Cyprus, he holds a BBA degree in Accounting from the City University of
-                    New York and also holds an MSc degree in International Shipping from Plymouth University, UK.
-                </p>
-                <p>
-                    He is a Fellow of the Institute of Chartered Shipbrokers.
-                </p>
-
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Sarah" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Sarah Al Qahtani</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Chartering Manager (Commercial & Operations), Bahri Dry Bulk
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Sarah Al Qahtani is an alumna of the American University of Sharjah, where she majored in
-                    International Relations. Her career in the maritime industry took flight when she joined the
-                    Graduate Development Talents Program at Bahri, Dubai. Therein, she assumed the role of
-                    Operations Analyst at Bahri Dry Bulk. Thereafter, Sarah advanced to the Operations
-                    Management of Bulkcarriers, managing the day-to-day operations including voyage planning
-                    and optimization. Sarah’s outstanding performance led her to assume the role of Chartering
-                    Manager in 2023. In this capacity, she shoulders the responsibility of the commercial
-                    employment of Bulkcarriers and involves in several strategic projects. Sarah engages fully in
-                    Bahri Dry Bulk's digitalization plan, as part of Bahri's Data Orchestration Project. Her focus
-                    lies in planning innovative and automated dashboards on Business Performance, Voyage
-                    Optimization, and market intelligence. Finally, Sarah's knowledge extends to Shipping
-                    Economics & Investment, Supply Chain logistics, finance, and risk management.
-                </p>
-
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Nikolaos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Nikolaos Michas</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Global Tanker Segment Director, Lloyds Register
-                </h6>
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Nikolaos Michas currently has the role of Global Tanker Segment Director for Lloyds
-                    Register based in Dubai since June of 2022.Before joining LR, he was working for another
-                    classification society for a period of 16 years. The last five years he
-                    was based in Greece with the role of Southeastern Europe and Middle East Regional Tanker
-                    Segment Director, he was also responsible for the management of Key Accounts and business
-                    development in the region.
-                    He has also worked for the same Classification society in China for a period of 11 years
-                    at different Technical and management roles. As a surveyor and site manager for a variety
-                    of newbuilding projects. Later as District Manager in north of China responsible for all
-                    operations at the district. In his last three years, he was based in Nanjing as QHSE & production
-                    Manager for central China having overview of newbuilding projects at over 20 shipyards.
-
-                </p>
-                <p>
-                    At the beginning of his career, he worked as sea-going engineer and later as superintendent Engineer in shipping companies in Greece.
-                    He holds a master’s degree of engineering for marine engineering and naval architecture from University
-                    of Newcastle upon Tyne and a master’s degree in Business Administration from the University of Hertfordshire.
-                </p>
-
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="Jayakumar" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">Dr. Jayakumar</h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Chief Executive Officer and Director
-                    Vizhinjam International Seaport Limited
-                    (A Government of Kerala Undertaking)
-                    Thiruvananthapuram, India
-                </h6>
-                <!-- <p>
-                    Email: <a href="mailto:ceo@vizhinjamport.in">ceo@vizhinjamport.in</a><br>
-                    <a href="mailto: dr.jekkoo@gmail.com"> dr.jekkoo@gmail.com</a>
-                </p>
-                <p>
-                    Mobile: <a href="tel:+91 9943 444 999">+91 9943 444 999</a>
-                </p> -->
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    Dr. Jayakumar is the Chief Executive Officer of Vizhinjam International Seaport Limited (VISL)
-                    developing India’s deep-water container transshipment port at Vizhinjam in Thiruvananthapuram,
-                    India. Jayakumar has been instrumental in the conceptualization, planning, design and construction
-                    of the port, which is slated for commissioning in 2024.
-
-                </p>
-                <p>
-                    A Graduate in Civil Engineering, Jayakumar acquired a Master’s Degree and PhD both in Ocean Engineering
-                    from IIT, Madras. Jayakumar is the Principal Investigator for the upcoming floating wave power plant off
-                    Vizhinjam coast being implemented by IIT Madras, ANERT and Oscilla Power Incorporated, USA. He was involved
-                    in the design, construction, and installation of India’s pilot wave power plant off Vizhinjam, which was
-                    successfully implemented by IIT Madras in 1990.
-                </p>
-                <p>
-                    Starting his career in Kerala Harbour Engineering Department, Jayakumar was appointed Special Private
-                    Secretary to Minister for Ports, GoK in 2001 considering his qualifications and experience in the ports
-                    and maritime sector. He had a brief stint as Managing Director of the Kerala State Maritime Development
-                    Corporation, involved in dredging activities.
-                </p>
-                <p>
-                    Dr Jayakumar was the Adviser (Technical) and Port Development Manager in Westports Malaysia where he headed
-                    several projects including the container transhipment terminal and formulated proposals to develop ports in
-                    Myanmar, Cambodia, and India.
-                </p>
-                <p>
-                    Jayakumar was selected by the US Department of Commerce in 2015 for the Special American Business Internship
-                    Training in Port Development for Asian Port Experts. Recipient of several awards, Jayakumar has to his credit,
-                    numerous technical papers in national and international journals and conferences. Dr. Jayakumar has been conferred
-                    ‘Outstanding Engineering Personality’ by the Institution of Engineers (India).
-                </p>
-                <p>
-                    Currently, his interests are also into renewable energy from sources like floating solar, ocean waves, offshore wind
-                    (fixed and floating power plants) and production of green hydrogen at Vizhinjam.
-                </p>
-
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="xaj-Kitherian" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">X A J Kitherian </h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Founder & CEO , Entoss Technologies
-                </h6>
-
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    An entrepreneur par excellence with 2 two decades of experience in IT and business
-                    process automation. Erstwhile, worked with Hewlett-Packard across myriad divisions in
-                    the UK, India, the US, and Indonesia. A pedantic Systems Engineer and Solution Architect that can fine-tune the most complex.
-                    Automation business processes to simplify everyday operations.
                 </p>
 
             </div>

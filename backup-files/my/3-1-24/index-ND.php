@@ -1154,7 +1154,7 @@
                     <div class="container pt-5 pb-5 mt-3 d-flex justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 col-12 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>Tanker Operator of the Year</li>
                                     <li>Ship Operator of the Year</li>
                                     <li>CSR Award of the Year</li>
@@ -1162,7 +1162,6 @@
                                     <li>Best HSE Initiatives.</li>
                                     <li>Sustainable Organization of the Year</li>
                                     <li>Excellence in Ports Infrastructure</li>
-                                    <li>Excellence in Marine Services</li>
                                     <li>Best Employer of the Year</li>
                                     <li>Ship Repair Yard of the Year</li>
                                     <li>Best Training Institute</li>
@@ -1174,7 +1173,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>New Building Yard of the Year</li>
                                     <li>Rising Star – Organization</li>
                                     <li>Rising Star - Individual</li>

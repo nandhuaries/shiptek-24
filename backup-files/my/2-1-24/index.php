@@ -105,11 +105,11 @@
                         <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL,DUBAI</li>
                     </ul>
                     <!-- marque -->
-                    <!-- <marquee style="font-weight:600;font-size: 25px;">
+                    <marquee style="font-weight:600;font-size: 25px;">
                         <a style="color: red;" href="nomination-registration" target="_blank">
                             <b>NOMINATIONS CLOSING ON 30TH DEC, CLICK HERE TO NOMINATE NOW..!!</b>
                         </a>
-                    </marquee> -->
+                    </marquee>
                     <!-- marque -->
                     <div class="govImg row">
                         <h3 class="titleGov">Government Partner</h3>
@@ -123,8 +123,7 @@
                                 Sponsorship Enquiry</span></a>
                         <a href="delegate-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
-                        <!-- {blink} class for blink -->
-                        <a href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
+                        <a style="background-color: #ec167f;" href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4 blink"><span class="btn-title">Nomination Registration</span></a>
                         <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
                     </div>
 
@@ -1154,15 +1153,13 @@
                     <div class="container pt-5 pb-5 mt-3 d-flex justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 col-12 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>Tanker Operator of the Year</li>
                                     <li>Ship Operator of the Year</li>
                                     <li>CSR Award of the Year</li>
                                     <li>Best Ship Agency of the Year</li>
                                     <li>Best HSE Initiatives.</li>
                                     <li>Sustainable Organization of the Year</li>
-                                    <li>Excellence in Ports Infrastructure</li>
-                                    <li>Excellence in Marine Services</li>
                                     <li>Best Employer of the Year</li>
                                     <li>Ship Repair Yard of the Year</li>
                                     <li>Best Training Institute</li>
@@ -1174,7 +1171,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>New Building Yard of the Year</li>
                                     <li>Rising Star – Organization</li>
                                     <li>Rising Star - Individual</li>

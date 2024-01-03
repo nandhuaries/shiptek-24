@@ -1706,18 +1706,18 @@ img{
 	text-align: center;
 }
 
-/*.banner-carousel .slide-item:before{
+.banner-carousel .slide-item:before{
 	position: absolute;
 	left: 0;
 	top: 0;
 	height: 100%;
 	width: 100%;
 	background-color: #000000;
-
+	/* opacity: .70; */
 	opacity: .4;
 	content: "";
 }
-*/
+
 .banner-carousel .content-box{
 	position: relative;
 }
@@ -3636,7 +3636,7 @@ img{
 	position: relative;
 	display: block;
 	/* font-size: 22px; */
-	font-size: 15px;
+	font-size: 14px;
 	line-height: 1.2em;
 	color: #ffffff;
 	font-weight: 700;

@@ -40,3 +40,6 @@
     margin-top: -120px !important;
   }
 }
+.video-min-hei{
+  min-height: 100%;
+}

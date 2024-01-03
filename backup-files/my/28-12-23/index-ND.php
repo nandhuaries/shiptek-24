@@ -105,11 +105,11 @@
                         <li style="font-weight:600;font-size: 25px;"><span class="icon fa fa-map-marker-alt"></span>THE ADDRESS MARINA HOTEL,DUBAI</li>
                     </ul>
                     <!-- marque -->
-                    <!-- <marquee style="font-weight:600;font-size: 25px;">
+                    <marquee style="font-weight:600;font-size: 25px;">
                         <a style="color: red;" href="nomination-registration" target="_blank">
                             <b>NOMINATIONS CLOSING ON 30TH DEC, CLICK HERE TO NOMINATE NOW..!!</b>
                         </a>
-                    </marquee> -->
+                    </marquee>
                     <!-- marque -->
                     <div class="govImg row">
                         <h3 class="titleGov">Government Partner</h3>
@@ -123,8 +123,7 @@
                                 Sponsorship Enquiry</span></a>
                         <a href="delegate-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">
                                 Delegate Registration</span></a>
-                        <!-- {blink} class for blink -->
-                        <a href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4"><span class="btn-title">Nomination Registration</span></a>
+                        <a style="background-color: #ec167f;" href="nomination-registration" target="_blank" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4 blink"><span class="btn-title">Nomination Registration</span></a>
                         <a href="exampleModal" class="theme-btn btn-style-two m-2 m-md-3 m-lg-4" data-toggle="modal" data-target="#exampleModal"><span class="btn-title">Media Registration</span></a>
                     </div>
 
@@ -993,28 +992,6 @@
                 </div>
             </div>
             <!-- end speaker -->
-            <!-- Speaker Block -->
-            <div class="speaker-block col-lg-3 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image">
-                            <a href="Javascript: void(0)"><img src="pics/2024-speakers/xaj-Kitherian.jpg" alt="" /></a>
-                        </figure>
-                    </div>
-                    <div class="info-box">
-                        <div class="inner">
-                            <h4 class="name">
-                                <a href="Javascript: void(0)">X A J Kitherian</a>
-                            </h4>
-                            <span class="designation">Founder & CEO , Entoss Technologies</span>
-                            <div class="social-box">
-                                <button data-toggle="modal" data-target="#xaj-Kitherian" class="btn btn-primary">View More</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end speaker -->
 
             <!-- extra speakers adding -->
 
@@ -1154,15 +1131,13 @@
                     <div class="container pt-5 pb-5 mt-3 d-flex justify-content-center">
                         <div class="row">
                             <div class="col-lg-6 col-12 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>Tanker Operator of the Year</li>
                                     <li>Ship Operator of the Year</li>
                                     <li>CSR Award of the Year</li>
                                     <li>Best Ship Agency of the Year</li>
                                     <li>Best HSE Initiatives.</li>
                                     <li>Sustainable Organization of the Year</li>
-                                    <li>Excellence in Ports Infrastructure</li>
-                                    <li>Excellence in Marine Services</li>
                                     <li>Best Employer of the Year</li>
                                     <li>Ship Repair Yard of the Year</li>
                                     <li>Best Training Institute</li>
@@ -1174,7 +1149,7 @@
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-6">
-                                <ul class="list-style-two text-capitalize">
+                                <ul class="list-style-two">
                                     <li>New Building Yard of the Year</li>
                                     <li>Rising Star – Organization</li>
                                     <li>Rising Star - Individual</li>
@@ -3731,34 +3706,6 @@
                     (fixed and floating power plants) and production of green hydrogen at Vizhinjam.
                 </p>
 
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end modal -->
-<!-- Modal -->
-<div class="modal fade" id="xaj-Kitherian" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header flex-column">
-                <h5 style="color: black;font-family: 'Ubuntu', sans-serif;" class="modal-title" id="exampleModalLabel">X A J Kitherian </h5>
-                <h6 style="color: black;font-family: 'Ubuntu', sans-serif;">
-                    Founder & CEO , Entoss Technologies
-                </h6>
-
-            </div>
-            <div class="modal-body text-justify">
-                <p>
-                    An entrepreneur par excellence with 2 two decades of experience in IT and business
-                    process automation. Erstwhile, worked with Hewlett-Packard across myriad divisions in
-                    the UK, India, the US, and Indonesia. A pedantic Systems Engineer and Solution Architect that can fine-tune the most complex.
-                    Automation business processes to simplify everyday operations.
-                </p>
 
             </div>
             <div class="modal-footer">
